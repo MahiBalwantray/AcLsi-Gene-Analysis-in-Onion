@@ -1,0 +1,35 @@
+# BLASTP 2.12.0+
+# Query: LOC_Os02g51110.1 (OsLsi1)
+# Database: ORIGINAL_C32c_SUBJECT_C32c_SEQUENCE.txt.TBtoolsDB
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+LOC_Os02g51110.1	g525889.t1	53.535	297	117	6	18	298	34	325	1.06e-104	298
+LOC_Os02g51110.1	g106325.t1	55.556	270	105	4	1	270	1	255	1.47e-98	282
+LOC_Os02g51110.1	g171774.t1	48.624	218	110	2	47	263	40	256	5.51e-72	213
+LOC_Os02g51110.1	g368937.t1	41.985	262	144	2	16	275	5	260	3.02e-71	211
+LOC_Os02g51110.1	g342104.t1	47.500	240	123	3	46	284	151	388	1.03e-69	211
+LOC_Os02g51110.1	g428538.t1	41.045	268	139	4	16	275	5	261	4.85e-69	205
+# BLASTP 2.12.0+
+# Query: LOC_Os03g01700.1 (OsLsi2)
+# Database: ORIGINAL_C32c_SUBJECT_C32c_SEQUENCE.txt.TBtoolsDB
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+LOC_Os03g01700.1	g191150.t1	57.819	486	190	2	1	471	79	564	0.0	553
+# BLASTP 2.12.0+
+# Query: LOC_Os10g39980.1 (OsLsi3)
+# Database: ORIGINAL_C32c_SUBJECT_C32c_SEQUENCE.txt.TBtoolsDB
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+LOC_Os10g39980.1	g191150.t1	56.883	494	190	5	1	482	82	564	0.0	553
+# BLASTP 2.12.0+
+# Query: LOC_Os06g12310.1 (OsLsi6)
+# Database: ORIGINAL_C32c_SUBJECT_C32c_SEQUENCE.txt.TBtoolsDB
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+LOC_Os06g12310.1	g525889.t1	51.042	288	128	5	20	297	34	318	2.04e-98	282
+LOC_Os06g12310.1	g106325.t1	50.327	306	125	7	10	297	3	299	5.50e-95	273
+LOC_Os06g12310.1	g368937.t1	42.975	242	133	2	42	281	22	260	5.00e-70	207
+LOC_Os06g12310.1	g428538.t1	42.975	242	134	2	42	281	22	261	9.20e-69	204
+LOC_Os06g12310.1	g171774.t1	40.458	262	148	3	27	284	17	274	1.56e-68	204
+LOC_Os06g12310.1	g342104.t1	46.818	220	114	2	49	266	151	369	1.28e-66	203
+# BLAST processed 4 queries

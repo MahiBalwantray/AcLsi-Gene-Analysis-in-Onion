@@ -1,0 +1,1516 @@
+#node	identifier	category	term ID	term description
+ACR3	3702.O49285	GO Function	GO:0005488	Binding
+ACR3	3702.O49285	GO Function	GO:0016597	Amino acid binding
+ACR3	3702.O49285	GO Function	GO:0036094	Small molecule binding
+ACR3	3702.O49285	GO Function	GO:0043177	Organic acid binding
+ACR3	3702.O49285	GO Component	GO:0005622	Intracellular anatomical structure
+ACR3	3702.O49285	GO Component	GO:0005737	Cytoplasm
+ACR3	3702.O49285	GO Component	GO:0005829	Cytosol
+ACR3	3702.O49285	GO Component	GO:0110165	Cellular anatomical entity
+ACR3	3702.O49285	STRING clusters	CL:33205	Mixed, incl. ABC transporter-like, ATP-binding domain, and Root UVB sensitive family
+ACR3	3702.O49285	STRING clusters	CL:33206	Mixed, incl. ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+ACR3	3702.O49285	STRING clusters	CL:33207	Mixed, incl. ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+ACR3	3702.O49285	STRING clusters	CL:33208	Mixed, incl. ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+ACR3	3702.O49285	STRING clusters	CL:33209	Mixed, incl. ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+ACR3	3702.O49285	STRING clusters	CL:33210	ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+ACR3	3702.O49285	STRING clusters	CL:33211	ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+ACR3	3702.O49285	STRING clusters	CL:33429	Mixed, incl. Phytochelatin transport, and Lead ion transport
+ACR3	3702.O49285	STRING clusters	CL:33430	Mixed, incl. Phytochelatin transport, and (+)-Abscisic acid D-glucopyranosyl ester transmembrane transport
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0005622	Intracellular
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0005737	Cytoplasm
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0005829	Cytosol
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0016020	Membrane
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+ACR3	3702.O49285	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ACR3	3702.O49285	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+ACR3	3702.O49285	COMPARTMENTS	GOCC:1990281	Efflux pump complex
+ACR3	3702.O49285	COMPARTMENTS	GOCC:1990351	Transporter complex
+ACR3	3702.O49285	UniProt Keywords	KW-0677	Repeat
+ACR3	3702.O49285	Pfam	PF01842	ACT domain
+ACR3	3702.O49285	InterPro	IPR002912	ACT domain
+ACR3	3702.O49285	InterPro	IPR040217	ACT domain-containing protein ACR1-12
+ACR3	3702.O49285	InterPro	IPR045865	ACT-like domain
+BOR1	3702.Q8VYR7	GO Process	GO:0006810	Transport
+BOR1	3702.Q8VYR7	GO Process	GO:0006811	Ion transport
+BOR1	3702.Q8VYR7	GO Process	GO:0006820	Anion transport
+BOR1	3702.Q8VYR7	GO Process	GO:0007154	Cell communication
+BOR1	3702.Q8VYR7	GO Process	GO:0009605	Response to external stimulus
+BOR1	3702.Q8VYR7	GO Process	GO:0009987	Cellular process
+BOR1	3702.Q8VYR7	GO Process	GO:0009991	Response to extracellular stimulus
+BOR1	3702.Q8VYR7	GO Process	GO:0010036	Response to boron-containing substance
+BOR1	3702.Q8VYR7	GO Process	GO:0015698	Inorganic anion transport
+BOR1	3702.Q8VYR7	GO Process	GO:0031667	Response to nutrient levels
+BOR1	3702.Q8VYR7	GO Process	GO:0031668	Cellular response to extracellular stimulus
+BOR1	3702.Q8VYR7	GO Process	GO:0031669	Cellular response to nutrient levels
+BOR1	3702.Q8VYR7	GO Process	GO:0034220	Ion transmembrane transport
+BOR1	3702.Q8VYR7	GO Process	GO:0035445	Borate transmembrane transport
+BOR1	3702.Q8VYR7	GO Process	GO:0042221	Response to chemical
+BOR1	3702.Q8VYR7	GO Process	GO:0042592	Homeostatic process
+BOR1	3702.Q8VYR7	GO Process	GO:0046713	Borate transport
+BOR1	3702.Q8VYR7	GO Process	GO:0048878	Chemical homeostasis
+BOR1	3702.Q8VYR7	GO Process	GO:0050801	Ion homeostasis
+BOR1	3702.Q8VYR7	GO Process	GO:0050896	Response to stimulus
+BOR1	3702.Q8VYR7	GO Process	GO:0051179	Localization
+BOR1	3702.Q8VYR7	GO Process	GO:0051234	Establishment of localization
+BOR1	3702.Q8VYR7	GO Process	GO:0051716	Cellular response to stimulus
+BOR1	3702.Q8VYR7	GO Process	GO:0055085	Transmembrane transport
+BOR1	3702.Q8VYR7	GO Process	GO:0065007	Biological regulation
+BOR1	3702.Q8VYR7	GO Process	GO:0065008	Regulation of biological quality
+BOR1	3702.Q8VYR7	GO Process	GO:0070887	Cellular response to chemical stimulus
+BOR1	3702.Q8VYR7	GO Process	GO:0071496	Cellular response to external stimulus
+BOR1	3702.Q8VYR7	GO Process	GO:0080029	Cellular response to boron-containing substance levels
+BOR1	3702.Q8VYR7	GO Process	GO:0098656	Anion transmembrane transport
+BOR1	3702.Q8VYR7	GO Process	GO:0098660	Inorganic ion transmembrane transport
+BOR1	3702.Q8VYR7	GO Process	GO:0098661	Inorganic anion transmembrane transport
+BOR1	3702.Q8VYR7	GO Function	GO:0005215	Transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0005452	Inorganic anion exchanger activity
+BOR1	3702.Q8VYR7	GO Function	GO:0008509	Anion transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0015075	Ion transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0015291	Secondary active transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0015297	Antiporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0015301	Anion:anion antiporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0022804	Active transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0022853	Active ion transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0022857	Transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0046715	Active borate transmembrane transporter activity
+BOR1	3702.Q8VYR7	GO Function	GO:0140323	Solute:anion antiporter activity
+BOR1	3702.Q8VYR7	GO Component	GO:0005622	Intracellular anatomical structure
+BOR1	3702.Q8VYR7	GO Component	GO:0005737	Cytoplasm
+BOR1	3702.Q8VYR7	GO Component	GO:0005768	Endosome
+BOR1	3702.Q8VYR7	GO Component	GO:0005773	Vacuole
+BOR1	3702.Q8VYR7	GO Component	GO:0005774	Vacuolar membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0005886	Plasma membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0010008	Endosome membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0012505	Endomembrane system
+BOR1	3702.Q8VYR7	GO Component	GO:0012506	Vesicle membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0016020	Membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0016021	Integral component of membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0030659	Cytoplasmic vesicle membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0031090	Organelle membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0031224	Intrinsic component of membrane
+BOR1	3702.Q8VYR7	GO Component	GO:0031410	Cytoplasmic vesicle
+BOR1	3702.Q8VYR7	GO Component	GO:0031982	Vesicle
+BOR1	3702.Q8VYR7	GO Component	GO:0043226	Organelle
+BOR1	3702.Q8VYR7	GO Component	GO:0043227	Membrane-bounded organelle
+BOR1	3702.Q8VYR7	GO Component	GO:0043229	Intracellular organelle
+BOR1	3702.Q8VYR7	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+BOR1	3702.Q8VYR7	GO Component	GO:0071944	Cell periphery
+BOR1	3702.Q8VYR7	GO Component	GO:0097708	Intracellular vesicle
+BOR1	3702.Q8VYR7	GO Component	GO:0098588	Bounding membrane of organelle
+BOR1	3702.Q8VYR7	GO Component	GO:0110165	Cellular anatomical entity
+BOR1	3702.Q8VYR7	STRING clusters	CL:23523	Exocyst, and Purine nucleobase transmembrane transport
+BOR1	3702.Q8VYR7	STRING clusters	CL:23524	Exocyst, and Purine nucleobase transmembrane transport
+BOR1	3702.Q8VYR7	STRING clusters	CL:23525	Exocyst, and Purine nucleobase transmembrane transport
+BOR1	3702.Q8VYR7	STRING clusters	CL:23621	Mixed, incl. Active borate transmembrane transporter activity, and Protein C2-DOMAIN ABA-RELATED
+BOR1	3702.Q8VYR7	Reactome	MAP-382551	Transport of small molecules
+BOR1	3702.Q8VYR7	Reactome	MAP-425393	Transport of inorganic cations/anions and amino acids/oligopeptides
+BOR1	3702.Q8VYR7	Reactome	MAP-425407	SLC-mediated transmembrane transport
+BOR1	3702.Q8VYR7	COMPARTMENTS	GOCC:0005886	Plasma membrane
+BOR1	3702.Q8VYR7	COMPARTMENTS	GOCC:0016020	Membrane
+BOR1	3702.Q8VYR7	COMPARTMENTS	GOCC:0071944	Cell periphery
+BOR1	3702.Q8VYR7	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-0025	Alternative splicing
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-0039	Anion exchange
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-0406	Ion transport
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-0472	Membrane
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-0812	Transmembrane
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-0813	Transport
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-0926	Vacuole
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-0967	Endosome
+BOR1	3702.Q8VYR7	UniProt Keywords	KW-1133	Transmembrane helix
+BOR1	3702.Q8VYR7	Pfam	PF00955	HCO3- transporter family
+BOR1	3702.Q8VYR7	InterPro	IPR003020	Bicarbonate transporter, eukaryotic
+BOR1	3702.Q8VYR7	InterPro	IPR011531	Bicarbonate transporter-like, transmembrane domain
+BOR4	3702.Q9XI23	GO Process	GO:0006810	Transport
+BOR4	3702.Q9XI23	GO Process	GO:0006811	Ion transport
+BOR4	3702.Q9XI23	GO Process	GO:0006820	Anion transport
+BOR4	3702.Q9XI23	GO Process	GO:0007154	Cell communication
+BOR4	3702.Q9XI23	GO Process	GO:0009605	Response to external stimulus
+BOR4	3702.Q9XI23	GO Process	GO:0009987	Cellular process
+BOR4	3702.Q9XI23	GO Process	GO:0009991	Response to extracellular stimulus
+BOR4	3702.Q9XI23	GO Process	GO:0010036	Response to boron-containing substance
+BOR4	3702.Q9XI23	GO Process	GO:0015698	Inorganic anion transport
+BOR4	3702.Q9XI23	GO Process	GO:0031667	Response to nutrient levels
+BOR4	3702.Q9XI23	GO Process	GO:0031668	Cellular response to extracellular stimulus
+BOR4	3702.Q9XI23	GO Process	GO:0031669	Cellular response to nutrient levels
+BOR4	3702.Q9XI23	GO Process	GO:0034220	Ion transmembrane transport
+BOR4	3702.Q9XI23	GO Process	GO:0035445	Borate transmembrane transport
+BOR4	3702.Q9XI23	GO Process	GO:0042221	Response to chemical
+BOR4	3702.Q9XI23	GO Process	GO:0042592	Homeostatic process
+BOR4	3702.Q9XI23	GO Process	GO:0046713	Borate transport
+BOR4	3702.Q9XI23	GO Process	GO:0048878	Chemical homeostasis
+BOR4	3702.Q9XI23	GO Process	GO:0050801	Ion homeostasis
+BOR4	3702.Q9XI23	GO Process	GO:0050896	Response to stimulus
+BOR4	3702.Q9XI23	GO Process	GO:0051179	Localization
+BOR4	3702.Q9XI23	GO Process	GO:0051234	Establishment of localization
+BOR4	3702.Q9XI23	GO Process	GO:0051716	Cellular response to stimulus
+BOR4	3702.Q9XI23	GO Process	GO:0055085	Transmembrane transport
+BOR4	3702.Q9XI23	GO Process	GO:0065007	Biological regulation
+BOR4	3702.Q9XI23	GO Process	GO:0065008	Regulation of biological quality
+BOR4	3702.Q9XI23	GO Process	GO:0070887	Cellular response to chemical stimulus
+BOR4	3702.Q9XI23	GO Process	GO:0071496	Cellular response to external stimulus
+BOR4	3702.Q9XI23	GO Process	GO:0080029	Cellular response to boron-containing substance levels
+BOR4	3702.Q9XI23	GO Process	GO:0098656	Anion transmembrane transport
+BOR4	3702.Q9XI23	GO Process	GO:0098660	Inorganic ion transmembrane transport
+BOR4	3702.Q9XI23	GO Process	GO:0098661	Inorganic anion transmembrane transport
+BOR4	3702.Q9XI23	GO Function	GO:0005215	Transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0005452	Inorganic anion exchanger activity
+BOR4	3702.Q9XI23	GO Function	GO:0008509	Anion transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0015075	Ion transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0015291	Secondary active transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0015297	Antiporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0015301	Anion:anion antiporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0015562	Efflux transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0022804	Active transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0022853	Active ion transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0022857	Transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0080139	Borate efflux transmembrane transporter activity
+BOR4	3702.Q9XI23	GO Function	GO:0140323	Solute:anion antiporter activity
+BOR4	3702.Q9XI23	GO Component	GO:0005886	Plasma membrane
+BOR4	3702.Q9XI23	GO Component	GO:0016020	Membrane
+BOR4	3702.Q9XI23	GO Component	GO:0016021	Integral component of membrane
+BOR4	3702.Q9XI23	GO Component	GO:0031224	Intrinsic component of membrane
+BOR4	3702.Q9XI23	GO Component	GO:0071944	Cell periphery
+BOR4	3702.Q9XI23	GO Component	GO:0110165	Cellular anatomical entity
+BOR4	3702.Q9XI23	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+BOR4	3702.Q9XI23	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+BOR4	3702.Q9XI23	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+BOR4	3702.Q9XI23	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+BOR4	3702.Q9XI23	STRING clusters	CL:34617	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+BOR4	3702.Q9XI23	STRING clusters	CL:34618	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+BOR4	3702.Q9XI23	STRING clusters	CL:34621	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+BOR4	3702.Q9XI23	STRING clusters	CL:34637	Borate transmembrane transport, and Anion exchange
+BOR4	3702.Q9XI23	Reactome	MAP-382551	Transport of small molecules
+BOR4	3702.Q9XI23	Reactome	MAP-425393	Transport of inorganic cations/anions and amino acids/oligopeptides
+BOR4	3702.Q9XI23	Reactome	MAP-425407	SLC-mediated transmembrane transport
+BOR4	3702.Q9XI23	COMPARTMENTS	GOCC:0005886	Plasma membrane
+BOR4	3702.Q9XI23	COMPARTMENTS	GOCC:0016020	Membrane
+BOR4	3702.Q9XI23	COMPARTMENTS	GOCC:0071944	Cell periphery
+BOR4	3702.Q9XI23	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+BOR4	3702.Q9XI23	UniProt Keywords	KW-0039	Anion exchange
+BOR4	3702.Q9XI23	UniProt Keywords	KW-0406	Ion transport
+BOR4	3702.Q9XI23	UniProt Keywords	KW-0472	Membrane
+BOR4	3702.Q9XI23	UniProt Keywords	KW-0812	Transmembrane
+BOR4	3702.Q9XI23	UniProt Keywords	KW-0813	Transport
+BOR4	3702.Q9XI23	UniProt Keywords	KW-1133	Transmembrane helix
+BOR4	3702.Q9XI23	Pfam	PF00955	HCO3- transporter family
+BOR4	3702.Q9XI23	InterPro	IPR003020	Bicarbonate transporter, eukaryotic
+BOR4	3702.Q9XI23	InterPro	IPR011531	Bicarbonate transporter-like, transmembrane domain
+BOR7	3702.Q9SUU1	GO Process	GO:0006810	Transport
+BOR7	3702.Q9SUU1	GO Process	GO:0006811	Ion transport
+BOR7	3702.Q9SUU1	GO Process	GO:0006820	Anion transport
+BOR7	3702.Q9SUU1	GO Process	GO:0009987	Cellular process
+BOR7	3702.Q9SUU1	GO Process	GO:0015698	Inorganic anion transport
+BOR7	3702.Q9SUU1	GO Process	GO:0034220	Ion transmembrane transport
+BOR7	3702.Q9SUU1	GO Process	GO:0042592	Homeostatic process
+BOR7	3702.Q9SUU1	GO Process	GO:0048878	Chemical homeostasis
+BOR7	3702.Q9SUU1	GO Process	GO:0050801	Ion homeostasis
+BOR7	3702.Q9SUU1	GO Process	GO:0051179	Localization
+BOR7	3702.Q9SUU1	GO Process	GO:0051234	Establishment of localization
+BOR7	3702.Q9SUU1	GO Process	GO:0055085	Transmembrane transport
+BOR7	3702.Q9SUU1	GO Process	GO:0065007	Biological regulation
+BOR7	3702.Q9SUU1	GO Process	GO:0065008	Regulation of biological quality
+BOR7	3702.Q9SUU1	GO Process	GO:0098656	Anion transmembrane transport
+BOR7	3702.Q9SUU1	GO Function	GO:0005215	Transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0005452	Inorganic anion exchanger activity
+BOR7	3702.Q9SUU1	GO Function	GO:0008509	Anion transmembrane transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0015075	Ion transmembrane transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0015291	Secondary active transmembrane transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0015297	Antiporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0015301	Anion:anion antiporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0022804	Active transmembrane transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0022853	Active ion transmembrane transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0022857	Transmembrane transporter activity
+BOR7	3702.Q9SUU1	GO Function	GO:0140323	Solute:anion antiporter activity
+BOR7	3702.Q9SUU1	GO Component	GO:0005886	Plasma membrane
+BOR7	3702.Q9SUU1	GO Component	GO:0016020	Membrane
+BOR7	3702.Q9SUU1	GO Component	GO:0016021	Integral component of membrane
+BOR7	3702.Q9SUU1	GO Component	GO:0031224	Intrinsic component of membrane
+BOR7	3702.Q9SUU1	GO Component	GO:0071944	Cell periphery
+BOR7	3702.Q9SUU1	GO Component	GO:0110165	Cellular anatomical entity
+BOR7	3702.Q9SUU1	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+BOR7	3702.Q9SUU1	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+BOR7	3702.Q9SUU1	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+BOR7	3702.Q9SUU1	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+BOR7	3702.Q9SUU1	STRING clusters	CL:34617	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+BOR7	3702.Q9SUU1	STRING clusters	CL:34618	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+BOR7	3702.Q9SUU1	STRING clusters	CL:34621	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+BOR7	3702.Q9SUU1	STRING clusters	CL:34637	Borate transmembrane transport, and Anion exchange
+BOR7	3702.Q9SUU1	Reactome	MAP-382551	Transport of small molecules
+BOR7	3702.Q9SUU1	Reactome	MAP-425393	Transport of inorganic cations/anions and amino acids/oligopeptides
+BOR7	3702.Q9SUU1	Reactome	MAP-425407	SLC-mediated transmembrane transport
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0005622	Intracellular
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0005737	Cytoplasm
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0005856	Cytoskeleton
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0005929	Cilium
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0005930	Axoneme
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0032838	Plasma membrane bounded cell projection cytoplasm
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0042995	Cell projection
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0043226	Organelle
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0043232	Intracellular non-membrane-bounded organelle
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0097014	Ciliary plasm
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0099568	Cytoplasmic region
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0120025	Plasma membrane bounded cell projection
+BOR7	3702.Q9SUU1	COMPARTMENTS	GOCC:0120228	Outer dynein arm docking complex
+BOR7	3702.Q9SUU1	UniProt Keywords	KW-0039	Anion exchange
+BOR7	3702.Q9SUU1	UniProt Keywords	KW-0406	Ion transport
+BOR7	3702.Q9SUU1	UniProt Keywords	KW-0472	Membrane
+BOR7	3702.Q9SUU1	UniProt Keywords	KW-0812	Transmembrane
+BOR7	3702.Q9SUU1	UniProt Keywords	KW-0813	Transport
+BOR7	3702.Q9SUU1	UniProt Keywords	KW-1133	Transmembrane helix
+BOR7	3702.Q9SUU1	Pfam	PF00955	HCO3- transporter family
+BOR7	3702.Q9SUU1	InterPro	IPR003020	Bicarbonate transporter, eukaryotic
+BOR7	3702.Q9SUU1	InterPro	IPR011531	Bicarbonate transporter-like, transmembrane domain
+NIP1-2	3702.Q8LFP7	GO Process	GO:0006810	Transport
+NIP1-2	3702.Q8LFP7	GO Process	GO:0006811	Ion transport
+NIP1-2	3702.Q8LFP7	GO Process	GO:0006820	Anion transport
+NIP1-2	3702.Q8LFP7	GO Process	GO:0009987	Cellular process
+NIP1-2	3702.Q8LFP7	GO Process	GO:0015698	Inorganic anion transport
+NIP1-2	3702.Q8LFP7	GO Process	GO:0015700	Arsenite transport
+NIP1-2	3702.Q8LFP7	GO Process	GO:0034220	Ion transmembrane transport
+NIP1-2	3702.Q8LFP7	GO Process	GO:0042221	Response to chemical
+NIP1-2	3702.Q8LFP7	GO Process	GO:0046685	Response to arsenic-containing substance
+NIP1-2	3702.Q8LFP7	GO Process	GO:0050896	Response to stimulus
+NIP1-2	3702.Q8LFP7	GO Process	GO:0051179	Localization
+NIP1-2	3702.Q8LFP7	GO Process	GO:0051234	Establishment of localization
+NIP1-2	3702.Q8LFP7	GO Process	GO:0055085	Transmembrane transport
+NIP1-2	3702.Q8LFP7	GO Process	GO:0080170	Hydrogen peroxide transmembrane transport
+NIP1-2	3702.Q8LFP7	GO Process	GO:0098656	Anion transmembrane transport
+NIP1-2	3702.Q8LFP7	GO Function	GO:0005215	Transporter activity
+NIP1-2	3702.Q8LFP7	GO Function	GO:0008509	Anion transmembrane transporter activity
+NIP1-2	3702.Q8LFP7	GO Function	GO:0015075	Ion transmembrane transporter activity
+NIP1-2	3702.Q8LFP7	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+NIP1-2	3702.Q8LFP7	GO Function	GO:0015105	Arsenite transmembrane transporter activity
+NIP1-2	3702.Q8LFP7	GO Function	GO:0015267	Channel activity
+NIP1-2	3702.Q8LFP7	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+NIP1-2	3702.Q8LFP7	GO Function	GO:0022803	Passive transmembrane transporter activity
+NIP1-2	3702.Q8LFP7	GO Function	GO:0022857	Transmembrane transporter activity
+NIP1-2	3702.Q8LFP7	GO Component	GO:0005886	Plasma membrane
+NIP1-2	3702.Q8LFP7	GO Component	GO:0016020	Membrane
+NIP1-2	3702.Q8LFP7	GO Component	GO:0016021	Integral component of membrane
+NIP1-2	3702.Q8LFP7	GO Component	GO:0031224	Intrinsic component of membrane
+NIP1-2	3702.Q8LFP7	GO Component	GO:0071944	Cell periphery
+NIP1-2	3702.Q8LFP7	GO Component	GO:0110165	Cellular anatomical entity
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34454	Major intrinsic protein
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34456	Major intrinsic protein
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34457	Major intrinsic protein
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34483	Water channel activity, and Arsenite transmembrane transporter activity
+NIP1-2	3702.Q8LFP7	STRING clusters	CL:34484	Water channel activity
+NIP1-2	3702.Q8LFP7	Reactome	MAP-382551	Transport of small molecules
+NIP1-2	3702.Q8LFP7	Reactome	MAP-432047	Passive transport by Aquaporins
+NIP1-2	3702.Q8LFP7	Reactome	MAP-445717	Aquaporin-mediated transport
+NIP1-2	3702.Q8LFP7	COMPARTMENTS	GOCC:0005886	Plasma membrane
+NIP1-2	3702.Q8LFP7	COMPARTMENTS	GOCC:0016020	Membrane
+NIP1-2	3702.Q8LFP7	COMPARTMENTS	GOCC:0071944	Cell periphery
+NIP1-2	3702.Q8LFP7	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP1-2	3702.Q8LFP7	UniProt Keywords	KW-0007	Acetylation
+NIP1-2	3702.Q8LFP7	UniProt Keywords	KW-0472	Membrane
+NIP1-2	3702.Q8LFP7	UniProt Keywords	KW-0597	Phosphoprotein
+NIP1-2	3702.Q8LFP7	UniProt Keywords	KW-0677	Repeat
+NIP1-2	3702.Q8LFP7	UniProt Keywords	KW-0812	Transmembrane
+NIP1-2	3702.Q8LFP7	UniProt Keywords	KW-0813	Transport
+NIP1-2	3702.Q8LFP7	UniProt Keywords	KW-1133	Transmembrane helix
+NIP1-2	3702.Q8LFP7	Pfam	PF00230	Major intrinsic protein
+NIP1-2	3702.Q8LFP7	InterPro	IPR000425	Major intrinsic protein
+NIP1-2	3702.Q8LFP7	InterPro	IPR022357	Major intrinsic protein, conserved site
+NIP1-2	3702.Q8LFP7	InterPro	IPR023271	Aquaporin-like
+NIP1-2	3702.Q8LFP7	InterPro	IPR034294	Aquaporin transporter
+NIP2	3702.Q8GT74	GO Function	GO:0005488	Binding
+NIP2	3702.Q8GT74	GO Function	GO:0043167	Ion binding
+NIP2	3702.Q8GT74	GO Function	GO:0043169	Cation binding
+NIP2	3702.Q8GT74	GO Function	GO:0046872	Metal ion binding
+NIP2	3702.Q8GT74	GO Component	GO:0005622	Intracellular anatomical structure
+NIP2	3702.Q8GT74	GO Component	GO:0005737	Cytoplasm
+NIP2	3702.Q8GT74	GO Component	GO:0009507	Chloroplast
+NIP2	3702.Q8GT74	GO Component	GO:0009526	Plastid envelope
+NIP2	3702.Q8GT74	GO Component	GO:0009534	Chloroplast thylakoid
+NIP2	3702.Q8GT74	GO Component	GO:0009535	Chloroplast thylakoid membrane
+NIP2	3702.Q8GT74	GO Component	GO:0009536	Plastid
+NIP2	3702.Q8GT74	GO Component	GO:0009579	Thylakoid
+NIP2	3702.Q8GT74	GO Component	GO:0016020	Membrane
+NIP2	3702.Q8GT74	GO Component	GO:0016021	Integral component of membrane
+NIP2	3702.Q8GT74	GO Component	GO:0031090	Organelle membrane
+NIP2	3702.Q8GT74	GO Component	GO:0031224	Intrinsic component of membrane
+NIP2	3702.Q8GT74	GO Component	GO:0031967	Organelle envelope
+NIP2	3702.Q8GT74	GO Component	GO:0031975	Envelope
+NIP2	3702.Q8GT74	GO Component	GO:0031976	Plastid thylakoid
+NIP2	3702.Q8GT74	GO Component	GO:0031984	Organelle subcompartment
+NIP2	3702.Q8GT74	GO Component	GO:0034357	Photosynthetic membrane
+NIP2	3702.Q8GT74	GO Component	GO:0042170	Plastid membrane
+NIP2	3702.Q8GT74	GO Component	GO:0042651	Thylakoid membrane
+NIP2	3702.Q8GT74	GO Component	GO:0043226	Organelle
+NIP2	3702.Q8GT74	GO Component	GO:0043227	Membrane-bounded organelle
+NIP2	3702.Q8GT74	GO Component	GO:0043229	Intracellular organelle
+NIP2	3702.Q8GT74	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+NIP2	3702.Q8GT74	GO Component	GO:0055035	Plastid thylakoid membrane
+NIP2	3702.Q8GT74	GO Component	GO:0110165	Cellular anatomical entity
+NIP2	3702.Q8GT74	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2	3702.Q8GT74	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2	3702.Q8GT74	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2	3702.Q8GT74	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2	3702.Q8GT74	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2	3702.Q8GT74	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+NIP2	3702.Q8GT74	STRING clusters	CL:34454	Major intrinsic protein
+NIP2	3702.Q8GT74	STRING clusters	CL:34456	Major intrinsic protein
+NIP2	3702.Q8GT74	STRING clusters	CL:34457	Major intrinsic protein
+NIP2	3702.Q8GT74	STRING clusters	CL:34458	Major intrinsic protein
+NIP2	3702.Q8GT74	STRING clusters	CL:34461	Mixed, incl. YMGG-like Gly-zipper, and Aquaporin SIP1-1/2-like
+NIP2	3702.Q8GT74	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0025	Alternative splicing
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0150	Chloroplast
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0472	Membrane
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0479	Metal-binding
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0793	Thylakoid
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0812	Transmembrane
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0862	Zinc
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0863	Zinc-finger
+NIP2	3702.Q8GT74	UniProt Keywords	KW-0934	Plastid
+NIP2	3702.Q8GT74	UniProt Keywords	KW-1133	Transmembrane helix
+NIP2	3702.Q8GT74	Pfam	PF13441	YMGG-like Gly-zipper
+NIP2	3702.Q8GT74	InterPro	IPR001841	Zinc finger, RING-type
+NIP2	3702.Q8GT74	InterPro	IPR013083	Zinc finger, RING/FYVE/PHD-type
+NIP2	3702.Q8GT74	InterPro	IPR027367	YMGG-like Gly-zipper
+NIP2	3702.Q8GT74	InterPro	IPR044523	RING domain-containing protein NIP1/2-like
+NIP2	3702.Q8GT74	SMART	SM00184	Ring finger
+NIP2-1	3702.Q8W037	GO Process	GO:0001666	Response to hypoxia
+NIP2-1	3702.Q8W037	GO Process	GO:0006810	Transport
+NIP2-1	3702.Q8W037	GO Process	GO:0006811	Ion transport
+NIP2-1	3702.Q8W037	GO Process	GO:0006820	Anion transport
+NIP2-1	3702.Q8W037	GO Process	GO:0006950	Response to stress
+NIP2-1	3702.Q8W037	GO Process	GO:0009628	Response to abiotic stimulus
+NIP2-1	3702.Q8W037	GO Process	GO:0009987	Cellular process
+NIP2-1	3702.Q8W037	GO Process	GO:0015711	Organic anion transport
+NIP2-1	3702.Q8W037	GO Process	GO:0015718	Monocarboxylic acid transport
+NIP2-1	3702.Q8W037	GO Process	GO:0015727	Lactate transport
+NIP2-1	3702.Q8W037	GO Process	GO:0015849	Organic acid transport
+NIP2-1	3702.Q8W037	GO Process	GO:0015850	Organic hydroxy compound transport
+NIP2-1	3702.Q8W037	GO Process	GO:0034220	Ion transmembrane transport
+NIP2-1	3702.Q8W037	GO Process	GO:0035873	Lactate transmembrane transport
+NIP2-1	3702.Q8W037	GO Process	GO:0036293	Response to decreased oxygen levels
+NIP2-1	3702.Q8W037	GO Process	GO:0046942	Carboxylic acid transport
+NIP2-1	3702.Q8W037	GO Process	GO:0050896	Response to stimulus
+NIP2-1	3702.Q8W037	GO Process	GO:0051179	Localization
+NIP2-1	3702.Q8W037	GO Process	GO:0051234	Establishment of localization
+NIP2-1	3702.Q8W037	GO Process	GO:0055085	Transmembrane transport
+NIP2-1	3702.Q8W037	GO Process	GO:0070482	Response to oxygen levels
+NIP2-1	3702.Q8W037	GO Process	GO:0071702	Organic substance transport
+NIP2-1	3702.Q8W037	GO Process	GO:0098656	Anion transmembrane transport
+NIP2-1	3702.Q8W037	GO Process	GO:1903825	Organic acid transmembrane transport
+NIP2-1	3702.Q8W037	GO Process	GO:1905039	Carboxylic acid transmembrane transport
+NIP2-1	3702.Q8W037	GO Function	GO:0005215	Transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0005342	Organic acid transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0008028	Monocarboxylic acid transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0008509	Anion transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0008514	Organic anion transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0015075	Ion transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0015129	Lactate transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0015267	Channel activity
+NIP2-1	3702.Q8W037	GO Function	GO:0022803	Passive transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0022857	Transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:0046943	Carboxylic acid transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Function	GO:1901618	Organic hydroxy compound transmembrane transporter activity
+NIP2-1	3702.Q8W037	GO Component	GO:0005622	Intracellular anatomical structure
+NIP2-1	3702.Q8W037	GO Component	GO:0005737	Cytoplasm
+NIP2-1	3702.Q8W037	GO Component	GO:0005783	Endoplasmic reticulum
+NIP2-1	3702.Q8W037	GO Component	GO:0005789	Endoplasmic reticulum membrane
+NIP2-1	3702.Q8W037	GO Component	GO:0005886	Plasma membrane
+NIP2-1	3702.Q8W037	GO Component	GO:0012505	Endomembrane system
+NIP2-1	3702.Q8W037	GO Component	GO:0016020	Membrane
+NIP2-1	3702.Q8W037	GO Component	GO:0016021	Integral component of membrane
+NIP2-1	3702.Q8W037	GO Component	GO:0031090	Organelle membrane
+NIP2-1	3702.Q8W037	GO Component	GO:0031224	Intrinsic component of membrane
+NIP2-1	3702.Q8W037	GO Component	GO:0031984	Organelle subcompartment
+NIP2-1	3702.Q8W037	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+NIP2-1	3702.Q8W037	GO Component	GO:0043226	Organelle
+NIP2-1	3702.Q8W037	GO Component	GO:0043227	Membrane-bounded organelle
+NIP2-1	3702.Q8W037	GO Component	GO:0043229	Intracellular organelle
+NIP2-1	3702.Q8W037	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+NIP2-1	3702.Q8W037	GO Component	GO:0071944	Cell periphery
+NIP2-1	3702.Q8W037	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+NIP2-1	3702.Q8W037	GO Component	GO:0110165	Cellular anatomical entity
+NIP2-1	3702.Q8W037	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2-1	3702.Q8W037	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2-1	3702.Q8W037	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2-1	3702.Q8W037	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2-1	3702.Q8W037	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP2-1	3702.Q8W037	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+NIP2-1	3702.Q8W037	STRING clusters	CL:34454	Major intrinsic protein
+NIP2-1	3702.Q8W037	STRING clusters	CL:34456	Major intrinsic protein
+NIP2-1	3702.Q8W037	STRING clusters	CL:34457	Major intrinsic protein
+NIP2-1	3702.Q8W037	STRING clusters	CL:34458	Major intrinsic protein
+NIP2-1	3702.Q8W037	STRING clusters	CL:34461	Mixed, incl. YMGG-like Gly-zipper, and Aquaporin SIP1-1/2-like
+NIP2-1	3702.Q8W037	Reactome	MAP-382551	Transport of small molecules
+NIP2-1	3702.Q8W037	Reactome	MAP-432047	Passive transport by Aquaporins
+NIP2-1	3702.Q8W037	Reactome	MAP-445717	Aquaporin-mediated transport
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0005622	Intracellular
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0005737	Cytoplasm
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0005886	Plasma membrane
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0012505	Endomembrane system
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0012506	Vesicle membrane
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0016020	Membrane
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0030139	Endocytic vesicle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0030659	Cytoplasmic vesicle membrane
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0030666	Endocytic vesicle membrane
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0031090	Organelle membrane
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0031410	Cytoplasmic vesicle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0031982	Vesicle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0043226	Organelle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0043659	Symbiosome
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0043660	Bacteroid-containing symbiosome
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0043661	Peribacteroid membrane
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0071944	Cell periphery
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0097708	Intracellular vesicle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0098588	Bounding membrane of organelle
+NIP2-1	3702.Q8W037	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP2-1	3702.Q8W037	UniProt Keywords	KW-0007	Acetylation
+NIP2-1	3702.Q8W037	UniProt Keywords	KW-0256	Endoplasmic reticulum
+NIP2-1	3702.Q8W037	UniProt Keywords	KW-0472	Membrane
+NIP2-1	3702.Q8W037	UniProt Keywords	KW-0597	Phosphoprotein
+NIP2-1	3702.Q8W037	UniProt Keywords	KW-0677	Repeat
+NIP2-1	3702.Q8W037	UniProt Keywords	KW-0812	Transmembrane
+NIP2-1	3702.Q8W037	UniProt Keywords	KW-0813	Transport
+NIP2-1	3702.Q8W037	UniProt Keywords	KW-1133	Transmembrane helix
+NIP2-1	3702.Q8W037	Pfam	PF00230	Major intrinsic protein
+NIP2-1	3702.Q8W037	InterPro	IPR000425	Major intrinsic protein
+NIP2-1	3702.Q8W037	InterPro	IPR022357	Major intrinsic protein, conserved site
+NIP2-1	3702.Q8W037	InterPro	IPR023271	Aquaporin-like
+NIP2-1	3702.Q8W037	InterPro	IPR034294	Aquaporin transporter
+NIP3-1	3702.Q9C6T0	GO Process	GO:0006810	Transport
+NIP3-1	3702.Q9C6T0	GO Process	GO:0009987	Cellular process
+NIP3-1	3702.Q9C6T0	GO Process	GO:0051179	Localization
+NIP3-1	3702.Q9C6T0	GO Process	GO:0051234	Establishment of localization
+NIP3-1	3702.Q9C6T0	GO Process	GO:0055085	Transmembrane transport
+NIP3-1	3702.Q9C6T0	GO Function	GO:0005215	Transporter activity
+NIP3-1	3702.Q9C6T0	GO Function	GO:0015267	Channel activity
+NIP3-1	3702.Q9C6T0	GO Function	GO:0022803	Passive transmembrane transporter activity
+NIP3-1	3702.Q9C6T0	GO Function	GO:0022857	Transmembrane transporter activity
+NIP3-1	3702.Q9C6T0	GO Component	GO:0016020	Membrane
+NIP3-1	3702.Q9C6T0	GO Component	GO:0016021	Integral component of membrane
+NIP3-1	3702.Q9C6T0	GO Component	GO:0031224	Intrinsic component of membrane
+NIP3-1	3702.Q9C6T0	GO Component	GO:0110165	Cellular anatomical entity
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34454	Major intrinsic protein
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34456	Major intrinsic protein
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34457	Major intrinsic protein
+NIP3-1	3702.Q9C6T0	STRING clusters	CL:34458	Major intrinsic protein
+NIP3-1	3702.Q9C6T0	Reactome	MAP-382551	Transport of small molecules
+NIP3-1	3702.Q9C6T0	Reactome	MAP-432047	Passive transport by Aquaporins
+NIP3-1	3702.Q9C6T0	Reactome	MAP-445717	Aquaporin-mediated transport
+NIP3-1	3702.Q9C6T0	COMPARTMENTS	GOCC:0005886	Plasma membrane
+NIP3-1	3702.Q9C6T0	COMPARTMENTS	GOCC:0016020	Membrane
+NIP3-1	3702.Q9C6T0	COMPARTMENTS	GOCC:0071944	Cell periphery
+NIP3-1	3702.Q9C6T0	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP3-1	3702.Q9C6T0	UniProt Keywords	KW-0007	Acetylation
+NIP3-1	3702.Q9C6T0	UniProt Keywords	KW-0472	Membrane
+NIP3-1	3702.Q9C6T0	UniProt Keywords	KW-0677	Repeat
+NIP3-1	3702.Q9C6T0	UniProt Keywords	KW-0812	Transmembrane
+NIP3-1	3702.Q9C6T0	UniProt Keywords	KW-0813	Transport
+NIP3-1	3702.Q9C6T0	UniProt Keywords	KW-1133	Transmembrane helix
+NIP3-1	3702.Q9C6T0	Pfam	PF00230	Major intrinsic protein
+NIP3-1	3702.Q9C6T0	InterPro	IPR000425	Major intrinsic protein
+NIP3-1	3702.Q9C6T0	InterPro	IPR022357	Major intrinsic protein, conserved site
+NIP3-1	3702.Q9C6T0	InterPro	IPR023271	Aquaporin-like
+NIP3-1	3702.Q9C6T0	InterPro	IPR034294	Aquaporin transporter
+NIP4-1	3702.Q9FIZ9	GO Process	GO:0006810	Transport
+NIP4-1	3702.Q9FIZ9	GO Process	GO:0009987	Cellular process
+NIP4-1	3702.Q9FIZ9	GO Process	GO:0051179	Localization
+NIP4-1	3702.Q9FIZ9	GO Process	GO:0051234	Establishment of localization
+NIP4-1	3702.Q9FIZ9	GO Process	GO:0055085	Transmembrane transport
+NIP4-1	3702.Q9FIZ9	GO Function	GO:0005215	Transporter activity
+NIP4-1	3702.Q9FIZ9	GO Function	GO:0015267	Channel activity
+NIP4-1	3702.Q9FIZ9	GO Function	GO:0022803	Passive transmembrane transporter activity
+NIP4-1	3702.Q9FIZ9	GO Function	GO:0022857	Transmembrane transporter activity
+NIP4-1	3702.Q9FIZ9	GO Component	GO:0016020	Membrane
+NIP4-1	3702.Q9FIZ9	GO Component	GO:0016021	Integral component of membrane
+NIP4-1	3702.Q9FIZ9	GO Component	GO:0031224	Intrinsic component of membrane
+NIP4-1	3702.Q9FIZ9	GO Component	GO:0110165	Cellular anatomical entity
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34454	Major intrinsic protein
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34456	Major intrinsic protein
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34457	Major intrinsic protein
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34458	Major intrinsic protein
+NIP4-1	3702.Q9FIZ9	STRING clusters	CL:34461	Mixed, incl. YMGG-like Gly-zipper, and Aquaporin SIP1-1/2-like
+NIP4-1	3702.Q9FIZ9	Reactome	MAP-382551	Transport of small molecules
+NIP4-1	3702.Q9FIZ9	Reactome	MAP-432047	Passive transport by Aquaporins
+NIP4-1	3702.Q9FIZ9	Reactome	MAP-445717	Aquaporin-mediated transport
+NIP4-1	3702.Q9FIZ9	COMPARTMENTS	GOCC:0016020	Membrane
+NIP4-1	3702.Q9FIZ9	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP4-1	3702.Q9FIZ9	UniProt Keywords	KW-0007	Acetylation
+NIP4-1	3702.Q9FIZ9	UniProt Keywords	KW-0472	Membrane
+NIP4-1	3702.Q9FIZ9	UniProt Keywords	KW-0597	Phosphoprotein
+NIP4-1	3702.Q9FIZ9	UniProt Keywords	KW-0677	Repeat
+NIP4-1	3702.Q9FIZ9	UniProt Keywords	KW-0812	Transmembrane
+NIP4-1	3702.Q9FIZ9	UniProt Keywords	KW-0813	Transport
+NIP4-1	3702.Q9FIZ9	UniProt Keywords	KW-1133	Transmembrane helix
+NIP4-1	3702.Q9FIZ9	Pfam	PF00230	Major intrinsic protein
+NIP4-1	3702.Q9FIZ9	InterPro	IPR000425	Major intrinsic protein
+NIP4-1	3702.Q9FIZ9	InterPro	IPR022357	Major intrinsic protein, conserved site
+NIP4-1	3702.Q9FIZ9	InterPro	IPR023271	Aquaporin-like
+NIP4-1	3702.Q9FIZ9	InterPro	IPR034294	Aquaporin transporter
+NIP4-2	3702.Q8W036	GO Process	GO:0006810	Transport
+NIP4-2	3702.Q8W036	GO Process	GO:0009987	Cellular process
+NIP4-2	3702.Q8W036	GO Process	GO:0051179	Localization
+NIP4-2	3702.Q8W036	GO Process	GO:0051234	Establishment of localization
+NIP4-2	3702.Q8W036	GO Process	GO:0055085	Transmembrane transport
+NIP4-2	3702.Q8W036	GO Function	GO:0005215	Transporter activity
+NIP4-2	3702.Q8W036	GO Function	GO:0015267	Channel activity
+NIP4-2	3702.Q8W036	GO Function	GO:0022803	Passive transmembrane transporter activity
+NIP4-2	3702.Q8W036	GO Function	GO:0022857	Transmembrane transporter activity
+NIP4-2	3702.Q8W036	GO Component	GO:0016020	Membrane
+NIP4-2	3702.Q8W036	GO Component	GO:0016021	Integral component of membrane
+NIP4-2	3702.Q8W036	GO Component	GO:0031224	Intrinsic component of membrane
+NIP4-2	3702.Q8W036	GO Component	GO:0110165	Cellular anatomical entity
+NIP4-2	3702.Q8W036	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-2	3702.Q8W036	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-2	3702.Q8W036	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-2	3702.Q8W036	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-2	3702.Q8W036	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP4-2	3702.Q8W036	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+NIP4-2	3702.Q8W036	STRING clusters	CL:34454	Major intrinsic protein
+NIP4-2	3702.Q8W036	Reactome	MAP-382551	Transport of small molecules
+NIP4-2	3702.Q8W036	Reactome	MAP-432047	Passive transport by Aquaporins
+NIP4-2	3702.Q8W036	Reactome	MAP-445717	Aquaporin-mediated transport
+NIP4-2	3702.Q8W036	COMPARTMENTS	GOCC:0016020	Membrane
+NIP4-2	3702.Q8W036	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP4-2	3702.Q8W036	UniProt Keywords	KW-0007	Acetylation
+NIP4-2	3702.Q8W036	UniProt Keywords	KW-0472	Membrane
+NIP4-2	3702.Q8W036	UniProt Keywords	KW-0597	Phosphoprotein
+NIP4-2	3702.Q8W036	UniProt Keywords	KW-0677	Repeat
+NIP4-2	3702.Q8W036	UniProt Keywords	KW-0812	Transmembrane
+NIP4-2	3702.Q8W036	UniProt Keywords	KW-0813	Transport
+NIP4-2	3702.Q8W036	UniProt Keywords	KW-1133	Transmembrane helix
+NIP4-2	3702.Q8W036	Pfam	PF00230	Major intrinsic protein
+NIP4-2	3702.Q8W036	InterPro	IPR000425	Major intrinsic protein
+NIP4-2	3702.Q8W036	InterPro	IPR022357	Major intrinsic protein, conserved site
+NIP4-2	3702.Q8W036	InterPro	IPR023271	Aquaporin-like
+NIP4-2	3702.Q8W036	InterPro	IPR034294	Aquaporin transporter
+NIP5-1	3702.Q9SV84	GO Process	GO:0006810	Transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0006811	Ion transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0006820	Anion transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0006833	Water transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0007154	Cell communication
+NIP5-1	3702.Q9SV84	GO Process	GO:0009605	Response to external stimulus
+NIP5-1	3702.Q9SV84	GO Process	GO:0009987	Cellular process
+NIP5-1	3702.Q9SV84	GO Process	GO:0009991	Response to extracellular stimulus
+NIP5-1	3702.Q9SV84	GO Process	GO:0010036	Response to boron-containing substance
+NIP5-1	3702.Q9SV84	GO Process	GO:0015698	Inorganic anion transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0015700	Arsenite transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0031667	Response to nutrient levels
+NIP5-1	3702.Q9SV84	GO Process	GO:0031668	Cellular response to extracellular stimulus
+NIP5-1	3702.Q9SV84	GO Process	GO:0031669	Cellular response to nutrient levels
+NIP5-1	3702.Q9SV84	GO Process	GO:0034220	Ion transmembrane transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0035445	Borate transmembrane transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0042044	Fluid transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0042221	Response to chemical
+NIP5-1	3702.Q9SV84	GO Process	GO:0046685	Response to arsenic-containing substance
+NIP5-1	3702.Q9SV84	GO Process	GO:0046713	Borate transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0050896	Response to stimulus
+NIP5-1	3702.Q9SV84	GO Process	GO:0051179	Localization
+NIP5-1	3702.Q9SV84	GO Process	GO:0051234	Establishment of localization
+NIP5-1	3702.Q9SV84	GO Process	GO:0051716	Cellular response to stimulus
+NIP5-1	3702.Q9SV84	GO Process	GO:0055085	Transmembrane transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0070887	Cellular response to chemical stimulus
+NIP5-1	3702.Q9SV84	GO Process	GO:0071496	Cellular response to external stimulus
+NIP5-1	3702.Q9SV84	GO Process	GO:0080029	Cellular response to boron-containing substance levels
+NIP5-1	3702.Q9SV84	GO Process	GO:0098656	Anion transmembrane transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0098660	Inorganic ion transmembrane transport
+NIP5-1	3702.Q9SV84	GO Process	GO:0098661	Inorganic anion transmembrane transport
+NIP5-1	3702.Q9SV84	GO Function	GO:0005215	Transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0005372	Water transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0008509	Anion transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0015075	Ion transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0015105	Arsenite transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0015250	Water channel activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0015267	Channel activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0022803	Passive transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0022804	Active transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0022853	Active ion transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0022857	Transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Function	GO:0046715	Active borate transmembrane transporter activity
+NIP5-1	3702.Q9SV84	GO Component	GO:0005886	Plasma membrane
+NIP5-1	3702.Q9SV84	GO Component	GO:0016020	Membrane
+NIP5-1	3702.Q9SV84	GO Component	GO:0016021	Integral component of membrane
+NIP5-1	3702.Q9SV84	GO Component	GO:0016328	Lateral plasma membrane
+NIP5-1	3702.Q9SV84	GO Component	GO:0031224	Intrinsic component of membrane
+NIP5-1	3702.Q9SV84	GO Component	GO:0071944	Cell periphery
+NIP5-1	3702.Q9SV84	GO Component	GO:0110165	Cellular anatomical entity
+NIP5-1	3702.Q9SV84	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP5-1	3702.Q9SV84	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP5-1	3702.Q9SV84	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP5-1	3702.Q9SV84	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP5-1	3702.Q9SV84	STRING clusters	CL:34617	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+NIP5-1	3702.Q9SV84	STRING clusters	CL:34618	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+NIP5-1	3702.Q9SV84	STRING clusters	CL:34621	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+NIP5-1	3702.Q9SV84	STRING clusters	CL:34637	Borate transmembrane transport, and Anion exchange
+NIP5-1	3702.Q9SV84	Reactome	MAP-382551	Transport of small molecules
+NIP5-1	3702.Q9SV84	Reactome	MAP-432047	Passive transport by Aquaporins
+NIP5-1	3702.Q9SV84	Reactome	MAP-445717	Aquaporin-mediated transport
+NIP5-1	3702.Q9SV84	COMPARTMENTS	GOCC:0005886	Plasma membrane
+NIP5-1	3702.Q9SV84	COMPARTMENTS	GOCC:0016020	Membrane
+NIP5-1	3702.Q9SV84	COMPARTMENTS	GOCC:0016328	Lateral plasma membrane
+NIP5-1	3702.Q9SV84	COMPARTMENTS	GOCC:0071944	Cell periphery
+NIP5-1	3702.Q9SV84	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP5-1	3702.Q9SV84	UniProt Keywords	KW-0472	Membrane
+NIP5-1	3702.Q9SV84	UniProt Keywords	KW-0597	Phosphoprotein
+NIP5-1	3702.Q9SV84	UniProt Keywords	KW-0677	Repeat
+NIP5-1	3702.Q9SV84	UniProt Keywords	KW-0812	Transmembrane
+NIP5-1	3702.Q9SV84	UniProt Keywords	KW-0813	Transport
+NIP5-1	3702.Q9SV84	UniProt Keywords	KW-1003	Cell membrane
+NIP5-1	3702.Q9SV84	UniProt Keywords	KW-1133	Transmembrane helix
+NIP5-1	3702.Q9SV84	Pfam	PF00230	Major intrinsic protein
+NIP5-1	3702.Q9SV84	InterPro	IPR000425	Major intrinsic protein
+NIP5-1	3702.Q9SV84	InterPro	IPR022357	Major intrinsic protein, conserved site
+NIP5-1	3702.Q9SV84	InterPro	IPR023271	Aquaporin-like
+NIP5-1	3702.Q9SV84	InterPro	IPR034294	Aquaporin transporter
+NIP6-1	3702.Q9SAI4	GO Process	GO:0006810	Transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0006811	Ion transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0006820	Anion transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0007154	Cell communication
+NIP6-1	3702.Q9SAI4	GO Process	GO:0008643	Carbohydrate transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0009605	Response to external stimulus
+NIP6-1	3702.Q9SAI4	GO Process	GO:0009987	Cellular process
+NIP6-1	3702.Q9SAI4	GO Process	GO:0009991	Response to extracellular stimulus
+NIP6-1	3702.Q9SAI4	GO Process	GO:0010036	Response to boron-containing substance
+NIP6-1	3702.Q9SAI4	GO Process	GO:0015698	Inorganic anion transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0015791	Polyol transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0015793	Glycerol transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0015840	Urea transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0015850	Organic hydroxy compound transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0019755	One-carbon compound transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0031667	Response to nutrient levels
+NIP6-1	3702.Q9SAI4	GO Process	GO:0031668	Cellular response to extracellular stimulus
+NIP6-1	3702.Q9SAI4	GO Process	GO:0031669	Cellular response to nutrient levels
+NIP6-1	3702.Q9SAI4	GO Process	GO:0034219	Carbohydrate transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0034220	Ion transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0035445	Borate transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0042221	Response to chemical
+NIP6-1	3702.Q9SAI4	GO Process	GO:0042886	Amide transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0046713	Borate transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0050896	Response to stimulus
+NIP6-1	3702.Q9SAI4	GO Process	GO:0051179	Localization
+NIP6-1	3702.Q9SAI4	GO Process	GO:0051234	Establishment of localization
+NIP6-1	3702.Q9SAI4	GO Process	GO:0051716	Cellular response to stimulus
+NIP6-1	3702.Q9SAI4	GO Process	GO:0055085	Transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0070887	Cellular response to chemical stimulus
+NIP6-1	3702.Q9SAI4	GO Process	GO:0071496	Cellular response to external stimulus
+NIP6-1	3702.Q9SAI4	GO Process	GO:0071702	Organic substance transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0071705	Nitrogen compound transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0071918	Urea transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0080029	Cellular response to boron-containing substance levels
+NIP6-1	3702.Q9SAI4	GO Process	GO:0098656	Anion transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0098660	Inorganic ion transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Process	GO:0098661	Inorganic anion transmembrane transport
+NIP6-1	3702.Q9SAI4	GO Function	GO:0005215	Transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0008509	Anion transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0015075	Ion transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0015144	Carbohydrate transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0015166	Polyol transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0015168	Glycerol transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0015204	Urea transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0015267	Channel activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0022803	Passive transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0022804	Active transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0022853	Active ion transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0022857	Transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0042887	Amide transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:0046715	Active borate transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Function	GO:1901618	Organic hydroxy compound transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	GO Component	GO:0005886	Plasma membrane
+NIP6-1	3702.Q9SAI4	GO Component	GO:0016020	Membrane
+NIP6-1	3702.Q9SAI4	GO Component	GO:0016021	Integral component of membrane
+NIP6-1	3702.Q9SAI4	GO Component	GO:0031224	Intrinsic component of membrane
+NIP6-1	3702.Q9SAI4	GO Component	GO:0071944	Cell periphery
+NIP6-1	3702.Q9SAI4	GO Component	GO:0110165	Cellular anatomical entity
+NIP6-1	3702.Q9SAI4	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP6-1	3702.Q9SAI4	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP6-1	3702.Q9SAI4	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP6-1	3702.Q9SAI4	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+NIP6-1	3702.Q9SAI4	STRING clusters	CL:34617	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	STRING clusters	CL:34618	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	STRING clusters	CL:34621	Mixed, incl. Anion exchange, and Active borate transmembrane transporter activity
+NIP6-1	3702.Q9SAI4	STRING clusters	CL:34637	Borate transmembrane transport, and Anion exchange
+NIP6-1	3702.Q9SAI4	Reactome	MAP-382551	Transport of small molecules
+NIP6-1	3702.Q9SAI4	Reactome	MAP-432047	Passive transport by Aquaporins
+NIP6-1	3702.Q9SAI4	Reactome	MAP-445717	Aquaporin-mediated transport
+NIP6-1	3702.Q9SAI4	COMPARTMENTS	GOCC:0005886	Plasma membrane
+NIP6-1	3702.Q9SAI4	COMPARTMENTS	GOCC:0016020	Membrane
+NIP6-1	3702.Q9SAI4	COMPARTMENTS	GOCC:0071944	Cell periphery
+NIP6-1	3702.Q9SAI4	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP6-1	3702.Q9SAI4	UniProt Keywords	KW-0472	Membrane
+NIP6-1	3702.Q9SAI4	UniProt Keywords	KW-0597	Phosphoprotein
+NIP6-1	3702.Q9SAI4	UniProt Keywords	KW-0677	Repeat
+NIP6-1	3702.Q9SAI4	UniProt Keywords	KW-0812	Transmembrane
+NIP6-1	3702.Q9SAI4	UniProt Keywords	KW-0813	Transport
+NIP6-1	3702.Q9SAI4	UniProt Keywords	KW-1133	Transmembrane helix
+NIP6-1	3702.Q9SAI4	Pfam	PF00230	Major intrinsic protein
+NIP6-1	3702.Q9SAI4	InterPro	IPR000425	Major intrinsic protein
+NIP6-1	3702.Q9SAI4	InterPro	IPR022357	Major intrinsic protein, conserved site
+NIP6-1	3702.Q9SAI4	InterPro	IPR023271	Aquaporin-like
+NIP6-1	3702.Q9SAI4	InterPro	IPR034294	Aquaporin transporter
+NIP7-1	3702.Q8LAI1	GO Process	GO:0006810	Transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0006811	Ion transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0006820	Anion transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0009987	Cellular process
+NIP7-1	3702.Q8LAI1	GO Process	GO:0015698	Inorganic anion transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0034220	Ion transmembrane transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0035445	Borate transmembrane transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0046713	Borate transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0051179	Localization
+NIP7-1	3702.Q8LAI1	GO Process	GO:0051234	Establishment of localization
+NIP7-1	3702.Q8LAI1	GO Process	GO:0055085	Transmembrane transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0098656	Anion transmembrane transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0098660	Inorganic ion transmembrane transport
+NIP7-1	3702.Q8LAI1	GO Process	GO:0098661	Inorganic anion transmembrane transport
+NIP7-1	3702.Q8LAI1	GO Function	GO:0005215	Transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0008509	Anion transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0015075	Ion transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0015267	Channel activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0022803	Passive transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0022804	Active transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0022853	Active ion transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0022857	Transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Function	GO:0046715	Active borate transmembrane transporter activity
+NIP7-1	3702.Q8LAI1	GO Component	GO:0016020	Membrane
+NIP7-1	3702.Q8LAI1	GO Component	GO:0016021	Integral component of membrane
+NIP7-1	3702.Q8LAI1	GO Component	GO:0031224	Intrinsic component of membrane
+NIP7-1	3702.Q8LAI1	GO Component	GO:0110165	Cellular anatomical entity
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33205	Mixed, incl. ABC transporter-like, ATP-binding domain, and Root UVB sensitive family
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33206	Mixed, incl. ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33207	Mixed, incl. ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33208	Mixed, incl. ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33209	Mixed, incl. ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33210	ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33211	ABC transporter-like, ATP-binding domain, and D-galactoside/L-rhamnose binding SUEL lectin domain
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33429	Mixed, incl. Phytochelatin transport, and Lead ion transport
+NIP7-1	3702.Q8LAI1	STRING clusters	CL:33430	Mixed, incl. Phytochelatin transport, and (+)-Abscisic acid D-glucopyranosyl ester transmembrane transport
+NIP7-1	3702.Q8LAI1	Reactome	MAP-382551	Transport of small molecules
+NIP7-1	3702.Q8LAI1	Reactome	MAP-432047	Passive transport by Aquaporins
+NIP7-1	3702.Q8LAI1	Reactome	MAP-445717	Aquaporin-mediated transport
+NIP7-1	3702.Q8LAI1	COMPARTMENTS	GOCC:0016020	Membrane
+NIP7-1	3702.Q8LAI1	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+NIP7-1	3702.Q8LAI1	UniProt Keywords	KW-0472	Membrane
+NIP7-1	3702.Q8LAI1	UniProt Keywords	KW-0597	Phosphoprotein
+NIP7-1	3702.Q8LAI1	UniProt Keywords	KW-0677	Repeat
+NIP7-1	3702.Q8LAI1	UniProt Keywords	KW-0812	Transmembrane
+NIP7-1	3702.Q8LAI1	UniProt Keywords	KW-0813	Transport
+NIP7-1	3702.Q8LAI1	UniProt Keywords	KW-1133	Transmembrane helix
+NIP7-1	3702.Q8LAI1	Pfam	PF00230	Major intrinsic protein
+NIP7-1	3702.Q8LAI1	InterPro	IPR000425	Major intrinsic protein
+NIP7-1	3702.Q8LAI1	InterPro	IPR022357	Major intrinsic protein, conserved site
+NIP7-1	3702.Q8LAI1	InterPro	IPR023271	Aquaporin-like
+NIP7-1	3702.Q8LAI1	InterPro	IPR034294	Aquaporin transporter
+PIP2-4	3702.Q9FF53	GO Process	GO:0006810	Transport
+PIP2-4	3702.Q9FF53	GO Process	GO:0006833	Water transport
+PIP2-4	3702.Q9FF53	GO Process	GO:0007275	Multicellular organism development
+PIP2-4	3702.Q9FF53	GO Process	GO:0009653	Anatomical structure morphogenesis
+PIP2-4	3702.Q9FF53	GO Process	GO:0009888	Tissue development
+PIP2-4	3702.Q9FF53	GO Process	GO:0009987	Cellular process
+PIP2-4	3702.Q9FF53	GO Process	GO:0010015	Root morphogenesis
+PIP2-4	3702.Q9FF53	GO Process	GO:0010053	Root epidermal cell differentiation
+PIP2-4	3702.Q9FF53	GO Process	GO:0010054	Trichoblast differentiation
+PIP2-4	3702.Q9FF53	GO Process	GO:0016049	Cell growth
+PIP2-4	3702.Q9FF53	GO Process	GO:0021700	Developmental maturation
+PIP2-4	3702.Q9FF53	GO Process	GO:0022622	Root system development
+PIP2-4	3702.Q9FF53	GO Process	GO:0030154	Cell differentiation
+PIP2-4	3702.Q9FF53	GO Process	GO:0032501	Multicellular organismal process
+PIP2-4	3702.Q9FF53	GO Process	GO:0032502	Developmental process
+PIP2-4	3702.Q9FF53	GO Process	GO:0040007	Growth
+PIP2-4	3702.Q9FF53	GO Process	GO:0042044	Fluid transport
+PIP2-4	3702.Q9FF53	GO Process	GO:0048364	Root development
+PIP2-4	3702.Q9FF53	GO Process	GO:0048468	Cell development
+PIP2-4	3702.Q9FF53	GO Process	GO:0048469	Cell maturation
+PIP2-4	3702.Q9FF53	GO Process	GO:0048588	Developmental cell growth
+PIP2-4	3702.Q9FF53	GO Process	GO:0048589	Developmental growth
+PIP2-4	3702.Q9FF53	GO Process	GO:0048731	System development
+PIP2-4	3702.Q9FF53	GO Process	GO:0048764	Trichoblast maturation
+PIP2-4	3702.Q9FF53	GO Process	GO:0048765	Root hair cell differentiation
+PIP2-4	3702.Q9FF53	GO Process	GO:0048767	Root hair elongation
+PIP2-4	3702.Q9FF53	GO Process	GO:0048856	Anatomical structure development
+PIP2-4	3702.Q9FF53	GO Process	GO:0048869	Cellular developmental process
+PIP2-4	3702.Q9FF53	GO Process	GO:0051179	Localization
+PIP2-4	3702.Q9FF53	GO Process	GO:0051234	Establishment of localization
+PIP2-4	3702.Q9FF53	GO Process	GO:0055085	Transmembrane transport
+PIP2-4	3702.Q9FF53	GO Process	GO:0060560	Developmental growth involved in morphogenesis
+PIP2-4	3702.Q9FF53	GO Process	GO:0071695	Anatomical structure maturation
+PIP2-4	3702.Q9FF53	GO Process	GO:0080147	Root hair cell development
+PIP2-4	3702.Q9FF53	GO Process	GO:0080170	Hydrogen peroxide transmembrane transport
+PIP2-4	3702.Q9FF53	GO Process	GO:0090558	Plant epidermis development
+PIP2-4	3702.Q9FF53	GO Process	GO:0090627	Plant epidermal cell differentiation
+PIP2-4	3702.Q9FF53	GO Process	GO:0099402	Plant organ development
+PIP2-4	3702.Q9FF53	GO Process	GO:1905392	Plant organ morphogenesis
+PIP2-4	3702.Q9FF53	GO Function	GO:0005215	Transporter activity
+PIP2-4	3702.Q9FF53	GO Function	GO:0005372	Water transmembrane transporter activity
+PIP2-4	3702.Q9FF53	GO Function	GO:0015250	Water channel activity
+PIP2-4	3702.Q9FF53	GO Function	GO:0015267	Channel activity
+PIP2-4	3702.Q9FF53	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+PIP2-4	3702.Q9FF53	GO Function	GO:0022803	Passive transmembrane transporter activity
+PIP2-4	3702.Q9FF53	GO Function	GO:0022857	Transmembrane transporter activity
+PIP2-4	3702.Q9FF53	GO Component	GO:0005886	Plasma membrane
+PIP2-4	3702.Q9FF53	GO Component	GO:0005911	Cell-cell junction
+PIP2-4	3702.Q9FF53	GO Component	GO:0009506	Plasmodesma
+PIP2-4	3702.Q9FF53	GO Component	GO:0016020	Membrane
+PIP2-4	3702.Q9FF53	GO Component	GO:0016021	Integral component of membrane
+PIP2-4	3702.Q9FF53	GO Component	GO:0030054	Cell junction
+PIP2-4	3702.Q9FF53	GO Component	GO:0031224	Intrinsic component of membrane
+PIP2-4	3702.Q9FF53	GO Component	GO:0055044	Symplast
+PIP2-4	3702.Q9FF53	GO Component	GO:0070161	Anchoring junction
+PIP2-4	3702.Q9FF53	GO Component	GO:0071944	Cell periphery
+PIP2-4	3702.Q9FF53	GO Component	GO:0110165	Cellular anatomical entity
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34454	Major intrinsic protein
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34456	Major intrinsic protein
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34457	Major intrinsic protein
+PIP2-4	3702.Q9FF53	STRING clusters	CL:34458	Major intrinsic protein
+PIP2-4	3702.Q9FF53	Reactome	MAP-382551	Transport of small molecules
+PIP2-4	3702.Q9FF53	Reactome	MAP-432047	Passive transport by Aquaporins
+PIP2-4	3702.Q9FF53	Reactome	MAP-445717	Aquaporin-mediated transport
+PIP2-4	3702.Q9FF53	COMPARTMENTS	GOCC:0055044	Symplast
+PIP2-4	3702.Q9FF53	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-0007	Acetylation
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-0472	Membrane
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-0488	Methylation
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-0597	Phosphoprotein
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-0677	Repeat
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-0812	Transmembrane
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-0813	Transport
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-1003	Cell membrane
+PIP2-4	3702.Q9FF53	UniProt Keywords	KW-1133	Transmembrane helix
+PIP2-4	3702.Q9FF53	Pfam	PF00230	Major intrinsic protein
+PIP2-4	3702.Q9FF53	InterPro	IPR000425	Major intrinsic protein
+PIP2-4	3702.Q9FF53	InterPro	IPR022357	Major intrinsic protein, conserved site
+PIP2-4	3702.Q9FF53	InterPro	IPR023271	Aquaporin-like
+PIP2-4	3702.Q9FF53	InterPro	IPR034294	Aquaporin transporter
+PIP2-5	3702.Q9SV31	GO Process	GO:0006810	Transport
+PIP2-5	3702.Q9SV31	GO Process	GO:0006833	Water transport
+PIP2-5	3702.Q9SV31	GO Process	GO:0009987	Cellular process
+PIP2-5	3702.Q9SV31	GO Process	GO:0042044	Fluid transport
+PIP2-5	3702.Q9SV31	GO Process	GO:0051179	Localization
+PIP2-5	3702.Q9SV31	GO Process	GO:0051234	Establishment of localization
+PIP2-5	3702.Q9SV31	GO Process	GO:0055085	Transmembrane transport
+PIP2-5	3702.Q9SV31	GO Function	GO:0005215	Transporter activity
+PIP2-5	3702.Q9SV31	GO Function	GO:0005372	Water transmembrane transporter activity
+PIP2-5	3702.Q9SV31	GO Function	GO:0015250	Water channel activity
+PIP2-5	3702.Q9SV31	GO Function	GO:0015267	Channel activity
+PIP2-5	3702.Q9SV31	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+PIP2-5	3702.Q9SV31	GO Function	GO:0022803	Passive transmembrane transporter activity
+PIP2-5	3702.Q9SV31	GO Function	GO:0022857	Transmembrane transporter activity
+PIP2-5	3702.Q9SV31	GO Component	GO:0005886	Plasma membrane
+PIP2-5	3702.Q9SV31	GO Component	GO:0016020	Membrane
+PIP2-5	3702.Q9SV31	GO Component	GO:0016021	Integral component of membrane
+PIP2-5	3702.Q9SV31	GO Component	GO:0031224	Intrinsic component of membrane
+PIP2-5	3702.Q9SV31	GO Component	GO:0071944	Cell periphery
+PIP2-5	3702.Q9SV31	GO Component	GO:0110165	Cellular anatomical entity
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34454	Major intrinsic protein
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34456	Major intrinsic protein
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34457	Major intrinsic protein
+PIP2-5	3702.Q9SV31	STRING clusters	CL:34458	Major intrinsic protein
+PIP2-5	3702.Q9SV31	Reactome	MAP-382551	Transport of small molecules
+PIP2-5	3702.Q9SV31	Reactome	MAP-432047	Passive transport by Aquaporins
+PIP2-5	3702.Q9SV31	Reactome	MAP-445717	Aquaporin-mediated transport
+PIP2-5	3702.Q9SV31	COMPARTMENTS	GOCC:0016020	Membrane
+PIP2-5	3702.Q9SV31	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-0007	Acetylation
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-0472	Membrane
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-0488	Methylation
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-0597	Phosphoprotein
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-0677	Repeat
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-0812	Transmembrane
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-0813	Transport
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-1003	Cell membrane
+PIP2-5	3702.Q9SV31	UniProt Keywords	KW-1133	Transmembrane helix
+PIP2-5	3702.Q9SV31	Pfam	PF00230	Major intrinsic protein
+PIP2-5	3702.Q9SV31	InterPro	IPR000425	Major intrinsic protein
+PIP2-5	3702.Q9SV31	InterPro	IPR022357	Major intrinsic protein, conserved site
+PIP2-5	3702.Q9SV31	InterPro	IPR023271	Aquaporin-like
+PIP2-5	3702.Q9SV31	InterPro	IPR034294	Aquaporin transporter
+Q6NLB7_ARATH	3702.Q6NLB7	STRING clusters	CL:40811	Mixed, incl. PPM-type phosphatase-like domain, and Small auxin-up RNA
+Q6NLB7_ARATH	3702.Q6NLB7	STRING clusters	CL:40813	Mixed, incl. Small auxin-up RNA, and Protein phosphatase 2C family
+Q6NLB7_ARATH	3702.Q6NLB7	STRING clusters	CL:40933	Mostly uncharacterized, incl. poly(A) binding, and Leucine rich repeat
+Q6NLB7_ARATH	3702.Q6NLB7	STRING clusters	CL:40977	Mostly uncharacterized, incl. SAP30, C-terminal domain superfamily, and SHI protein family
+Q6NLB7_ARATH	3702.Q6NLB7	STRING clusters	CL:40979	Mixed, incl. SHI protein family, and Calcium/proton exchanger
+Q6NLB7_ARATH	3702.Q6NLB7	STRING clusters	CL:40981	Mixed, incl. SHI protein family, and ATP transport
+SIP1-1	3702.Q9M8W5	GO Process	GO:0006810	Transport
+SIP1-1	3702.Q9M8W5	GO Process	GO:0006833	Water transport
+SIP1-1	3702.Q9M8W5	GO Process	GO:0009987	Cellular process
+SIP1-1	3702.Q9M8W5	GO Process	GO:0042044	Fluid transport
+SIP1-1	3702.Q9M8W5	GO Process	GO:0051179	Localization
+SIP1-1	3702.Q9M8W5	GO Process	GO:0051234	Establishment of localization
+SIP1-1	3702.Q9M8W5	GO Process	GO:0055085	Transmembrane transport
+SIP1-1	3702.Q9M8W5	GO Function	GO:0005215	Transporter activity
+SIP1-1	3702.Q9M8W5	GO Function	GO:0005372	Water transmembrane transporter activity
+SIP1-1	3702.Q9M8W5	GO Function	GO:0015250	Water channel activity
+SIP1-1	3702.Q9M8W5	GO Function	GO:0015267	Channel activity
+SIP1-1	3702.Q9M8W5	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+SIP1-1	3702.Q9M8W5	GO Function	GO:0022803	Passive transmembrane transporter activity
+SIP1-1	3702.Q9M8W5	GO Function	GO:0022857	Transmembrane transporter activity
+SIP1-1	3702.Q9M8W5	GO Component	GO:0005622	Intracellular anatomical structure
+SIP1-1	3702.Q9M8W5	GO Component	GO:0005737	Cytoplasm
+SIP1-1	3702.Q9M8W5	GO Component	GO:0005783	Endoplasmic reticulum
+SIP1-1	3702.Q9M8W5	GO Component	GO:0005789	Endoplasmic reticulum membrane
+SIP1-1	3702.Q9M8W5	GO Component	GO:0012505	Endomembrane system
+SIP1-1	3702.Q9M8W5	GO Component	GO:0016020	Membrane
+SIP1-1	3702.Q9M8W5	GO Component	GO:0016021	Integral component of membrane
+SIP1-1	3702.Q9M8W5	GO Component	GO:0031090	Organelle membrane
+SIP1-1	3702.Q9M8W5	GO Component	GO:0031224	Intrinsic component of membrane
+SIP1-1	3702.Q9M8W5	GO Component	GO:0031984	Organelle subcompartment
+SIP1-1	3702.Q9M8W5	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+SIP1-1	3702.Q9M8W5	GO Component	GO:0043226	Organelle
+SIP1-1	3702.Q9M8W5	GO Component	GO:0043227	Membrane-bounded organelle
+SIP1-1	3702.Q9M8W5	GO Component	GO:0043229	Intracellular organelle
+SIP1-1	3702.Q9M8W5	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+SIP1-1	3702.Q9M8W5	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+SIP1-1	3702.Q9M8W5	GO Component	GO:0110165	Cellular anatomical entity
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34454	Major intrinsic protein
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34456	Major intrinsic protein
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34457	Major intrinsic protein
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34483	Water channel activity, and Arsenite transmembrane transporter activity
+SIP1-1	3702.Q9M8W5	STRING clusters	CL:34484	Water channel activity
+SIP1-1	3702.Q9M8W5	Reactome	MAP-382551	Transport of small molecules
+SIP1-1	3702.Q9M8W5	Reactome	MAP-432047	Passive transport by Aquaporins
+SIP1-1	3702.Q9M8W5	Reactome	MAP-445717	Aquaporin-mediated transport
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0005622	Intracellular
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0005737	Cytoplasm
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0012505	Endomembrane system
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0043226	Organelle
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0090443	FAR/SIN/STRIPAK complex
+SIP1-1	3702.Q9M8W5	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SIP1-1	3702.Q9M8W5	UniProt Keywords	KW-0256	Endoplasmic reticulum
+SIP1-1	3702.Q9M8W5	UniProt Keywords	KW-0472	Membrane
+SIP1-1	3702.Q9M8W5	UniProt Keywords	KW-0677	Repeat
+SIP1-1	3702.Q9M8W5	UniProt Keywords	KW-0812	Transmembrane
+SIP1-1	3702.Q9M8W5	UniProt Keywords	KW-0813	Transport
+SIP1-1	3702.Q9M8W5	UniProt Keywords	KW-1133	Transmembrane helix
+SIP1-1	3702.Q9M8W5	Pfam	PF00230	Major intrinsic protein
+SIP1-1	3702.Q9M8W5	InterPro	IPR000425	Major intrinsic protein
+SIP1-1	3702.Q9M8W5	InterPro	IPR023271	Aquaporin-like
+SIP1-1	3702.Q9M8W5	InterPro	IPR044222	Aquaporin SIP1-1/2-like
+SIP1-2	3702.Q9FK43	GO Process	GO:0006810	Transport
+SIP1-2	3702.Q9FK43	GO Process	GO:0006833	Water transport
+SIP1-2	3702.Q9FK43	GO Process	GO:0009987	Cellular process
+SIP1-2	3702.Q9FK43	GO Process	GO:0042044	Fluid transport
+SIP1-2	3702.Q9FK43	GO Process	GO:0051179	Localization
+SIP1-2	3702.Q9FK43	GO Process	GO:0051234	Establishment of localization
+SIP1-2	3702.Q9FK43	GO Process	GO:0055085	Transmembrane transport
+SIP1-2	3702.Q9FK43	GO Function	GO:0005215	Transporter activity
+SIP1-2	3702.Q9FK43	GO Function	GO:0005372	Water transmembrane transporter activity
+SIP1-2	3702.Q9FK43	GO Function	GO:0015250	Water channel activity
+SIP1-2	3702.Q9FK43	GO Function	GO:0015267	Channel activity
+SIP1-2	3702.Q9FK43	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+SIP1-2	3702.Q9FK43	GO Function	GO:0022803	Passive transmembrane transporter activity
+SIP1-2	3702.Q9FK43	GO Function	GO:0022857	Transmembrane transporter activity
+SIP1-2	3702.Q9FK43	GO Component	GO:0005622	Intracellular anatomical structure
+SIP1-2	3702.Q9FK43	GO Component	GO:0005737	Cytoplasm
+SIP1-2	3702.Q9FK43	GO Component	GO:0005783	Endoplasmic reticulum
+SIP1-2	3702.Q9FK43	GO Component	GO:0005789	Endoplasmic reticulum membrane
+SIP1-2	3702.Q9FK43	GO Component	GO:0012505	Endomembrane system
+SIP1-2	3702.Q9FK43	GO Component	GO:0016020	Membrane
+SIP1-2	3702.Q9FK43	GO Component	GO:0016021	Integral component of membrane
+SIP1-2	3702.Q9FK43	GO Component	GO:0031090	Organelle membrane
+SIP1-2	3702.Q9FK43	GO Component	GO:0031224	Intrinsic component of membrane
+SIP1-2	3702.Q9FK43	GO Component	GO:0031984	Organelle subcompartment
+SIP1-2	3702.Q9FK43	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+SIP1-2	3702.Q9FK43	GO Component	GO:0043226	Organelle
+SIP1-2	3702.Q9FK43	GO Component	GO:0043227	Membrane-bounded organelle
+SIP1-2	3702.Q9FK43	GO Component	GO:0043229	Intracellular organelle
+SIP1-2	3702.Q9FK43	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+SIP1-2	3702.Q9FK43	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+SIP1-2	3702.Q9FK43	GO Component	GO:0110165	Cellular anatomical entity
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34454	Major intrinsic protein
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34456	Major intrinsic protein
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34457	Major intrinsic protein
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34458	Major intrinsic protein
+SIP1-2	3702.Q9FK43	STRING clusters	CL:34461	Mixed, incl. YMGG-like Gly-zipper, and Aquaporin SIP1-1/2-like
+SIP1-2	3702.Q9FK43	Reactome	MAP-382551	Transport of small molecules
+SIP1-2	3702.Q9FK43	Reactome	MAP-432047	Passive transport by Aquaporins
+SIP1-2	3702.Q9FK43	Reactome	MAP-445717	Aquaporin-mediated transport
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0005622	Intracellular
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0005737	Cytoplasm
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0012505	Endomembrane system
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0043226	Organelle
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0090443	FAR/SIN/STRIPAK complex
+SIP1-2	3702.Q9FK43	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SIP1-2	3702.Q9FK43	UniProt Keywords	KW-0256	Endoplasmic reticulum
+SIP1-2	3702.Q9FK43	UniProt Keywords	KW-0472	Membrane
+SIP1-2	3702.Q9FK43	UniProt Keywords	KW-0677	Repeat
+SIP1-2	3702.Q9FK43	UniProt Keywords	KW-0812	Transmembrane
+SIP1-2	3702.Q9FK43	UniProt Keywords	KW-0813	Transport
+SIP1-2	3702.Q9FK43	UniProt Keywords	KW-1133	Transmembrane helix
+SIP1-2	3702.Q9FK43	Pfam	PF00230	Major intrinsic protein
+SIP1-2	3702.Q9FK43	InterPro	IPR000425	Major intrinsic protein
+SIP1-2	3702.Q9FK43	InterPro	IPR023271	Aquaporin-like
+SIP1-2	3702.Q9FK43	InterPro	IPR044222	Aquaporin SIP1-1/2-like
+SIP2-1	3702.Q9M1K3	GO Process	GO:0006810	Transport
+SIP2-1	3702.Q9M1K3	GO Process	GO:0009987	Cellular process
+SIP2-1	3702.Q9M1K3	GO Process	GO:0051179	Localization
+SIP2-1	3702.Q9M1K3	GO Process	GO:0051234	Establishment of localization
+SIP2-1	3702.Q9M1K3	GO Process	GO:0055085	Transmembrane transport
+SIP2-1	3702.Q9M1K3	GO Function	GO:0005215	Transporter activity
+SIP2-1	3702.Q9M1K3	GO Function	GO:0015267	Channel activity
+SIP2-1	3702.Q9M1K3	GO Function	GO:0022803	Passive transmembrane transporter activity
+SIP2-1	3702.Q9M1K3	GO Function	GO:0022857	Transmembrane transporter activity
+SIP2-1	3702.Q9M1K3	GO Component	GO:0005622	Intracellular anatomical structure
+SIP2-1	3702.Q9M1K3	GO Component	GO:0005737	Cytoplasm
+SIP2-1	3702.Q9M1K3	GO Component	GO:0005783	Endoplasmic reticulum
+SIP2-1	3702.Q9M1K3	GO Component	GO:0005789	Endoplasmic reticulum membrane
+SIP2-1	3702.Q9M1K3	GO Component	GO:0012505	Endomembrane system
+SIP2-1	3702.Q9M1K3	GO Component	GO:0016020	Membrane
+SIP2-1	3702.Q9M1K3	GO Component	GO:0016021	Integral component of membrane
+SIP2-1	3702.Q9M1K3	GO Component	GO:0031090	Organelle membrane
+SIP2-1	3702.Q9M1K3	GO Component	GO:0031224	Intrinsic component of membrane
+SIP2-1	3702.Q9M1K3	GO Component	GO:0031984	Organelle subcompartment
+SIP2-1	3702.Q9M1K3	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+SIP2-1	3702.Q9M1K3	GO Component	GO:0043226	Organelle
+SIP2-1	3702.Q9M1K3	GO Component	GO:0043227	Membrane-bounded organelle
+SIP2-1	3702.Q9M1K3	GO Component	GO:0043229	Intracellular organelle
+SIP2-1	3702.Q9M1K3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+SIP2-1	3702.Q9M1K3	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+SIP2-1	3702.Q9M1K3	GO Component	GO:0110165	Cellular anatomical entity
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34454	Major intrinsic protein
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34456	Major intrinsic protein
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34457	Major intrinsic protein
+SIP2-1	3702.Q9M1K3	STRING clusters	CL:34458	Major intrinsic protein
+SIP2-1	3702.Q9M1K3	Reactome	MAP-382551	Transport of small molecules
+SIP2-1	3702.Q9M1K3	Reactome	MAP-432047	Passive transport by Aquaporins
+SIP2-1	3702.Q9M1K3	Reactome	MAP-445717	Aquaporin-mediated transport
+SIP2-1	3702.Q9M1K3	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SIP2-1	3702.Q9M1K3	COMPARTMENTS	GOCC:0090443	FAR/SIN/STRIPAK complex
+SIP2-1	3702.Q9M1K3	UniProt Keywords	KW-0025	Alternative splicing
+SIP2-1	3702.Q9M1K3	UniProt Keywords	KW-0256	Endoplasmic reticulum
+SIP2-1	3702.Q9M1K3	UniProt Keywords	KW-0472	Membrane
+SIP2-1	3702.Q9M1K3	UniProt Keywords	KW-0677	Repeat
+SIP2-1	3702.Q9M1K3	UniProt Keywords	KW-0812	Transmembrane
+SIP2-1	3702.Q9M1K3	UniProt Keywords	KW-0813	Transport
+SIP2-1	3702.Q9M1K3	UniProt Keywords	KW-1133	Transmembrane helix
+SIP2-1	3702.Q9M1K3	Pfam	PF00230	Major intrinsic protein
+SIP2-1	3702.Q9M1K3	InterPro	IPR000425	Major intrinsic protein
+SIP2-1	3702.Q9M1K3	InterPro	IPR023271	Aquaporin-like
+SIP2-1	3702.Q9M1K3	InterPro	IPR044226	Aquaporin SIP2-1-like
+T7I23.21	3702.O81915	GO Process	GO:0006810	Transport
+T7I23.21	3702.O81915	GO Process	GO:0009987	Cellular process
+T7I23.21	3702.O81915	GO Process	GO:0051179	Localization
+T7I23.21	3702.O81915	GO Process	GO:0051234	Establishment of localization
+T7I23.21	3702.O81915	GO Process	GO:0055085	Transmembrane transport
+T7I23.21	3702.O81915	GO Component	GO:0016020	Membrane
+T7I23.21	3702.O81915	GO Component	GO:0016021	Integral component of membrane
+T7I23.21	3702.O81915	GO Component	GO:0031224	Intrinsic component of membrane
+T7I23.21	3702.O81915	GO Component	GO:0110165	Cellular anatomical entity
+T7I23.21	3702.O81915	STRING clusters	CL:19044	Mostly uncharacterized, incl. Lipid droplet organization, and Pat1-like
+T7I23.21	3702.O81915	STRING clusters	CL:19100	Mostly uncharacterized, incl. Pat1-like, and XMP 5-nucleosidase activity
+T7I23.21	3702.O81915	STRING clusters	CL:19101	Mostly uncharacterized, incl. XMP 5-nucleosidase activity, and Citrate transporter-like domain
+T7I23.21	3702.O81915	STRING clusters	CL:19103	Mixed, incl. XMP 5-nucleosidase activity, and Citrate transporter-like domain
+T7I23.21	3702.O81915	Reactome	MAP-1430728	Metabolism
+T7I23.21	3702.O81915	Reactome	MAP-5662702	Melanin biosynthesis
+T7I23.21	3702.O81915	Reactome	MAP-71291	Metabolism of amino acids and derivatives
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0005622	Intracellular
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0005737	Cytoplasm
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0012506	Vesicle membrane
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0016020	Membrane
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0030659	Cytoplasmic vesicle membrane
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0031090	Organelle membrane
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0031410	Cytoplasmic vesicle
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0031982	Vesicle
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0033162	Melanosome membrane
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0042470	Melanosome
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0043226	Organelle
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0045009	Chitosome
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0048770	Pigment granule
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0090741	Pigment granule membrane
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0097708	Intracellular vesicle
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0098588	Bounding membrane of organelle
+T7I23.21	3702.O81915	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+T7I23.21	3702.O81915	UniProt Keywords	KW-0472	Membrane
+T7I23.21	3702.O81915	UniProt Keywords	KW-0812	Transmembrane
+T7I23.21	3702.O81915	UniProt Keywords	KW-1133	Transmembrane helix
+T7I23.21	3702.O81915	Pfam	PF02040	Arsenical pump membrane protein
+T7I23.21	3702.O81915	InterPro	IPR004680	Citrate transporter-like domain
+T9J23.9	3702.A0A1P8AZN4	STRING clusters	CL:39126	Mostly uncharacterized, incl. cGMP metabolic process, and BTB/POZ domain-containing protein POB1-like
+T9J23.9	3702.A0A1P8AZN4	STRING clusters	CL:39177	Mostly uncharacterized, incl. Purple acid phosphatase, Fn3-like domain, and Glycosyltransferase BC10-like
+T9J23.9	3702.A0A1P8AZN4	STRING clusters	CL:39179	Fungicide
+TIP1-3	3702.O82598	GO Process	GO:0006810	Transport
+TIP1-3	3702.O82598	GO Process	GO:0006833	Water transport
+TIP1-3	3702.O82598	GO Process	GO:0009987	Cellular process
+TIP1-3	3702.O82598	GO Process	GO:0015840	Urea transport
+TIP1-3	3702.O82598	GO Process	GO:0019755	One-carbon compound transport
+TIP1-3	3702.O82598	GO Process	GO:0042044	Fluid transport
+TIP1-3	3702.O82598	GO Process	GO:0042886	Amide transport
+TIP1-3	3702.O82598	GO Process	GO:0051179	Localization
+TIP1-3	3702.O82598	GO Process	GO:0051234	Establishment of localization
+TIP1-3	3702.O82598	GO Process	GO:0055085	Transmembrane transport
+TIP1-3	3702.O82598	GO Process	GO:0071702	Organic substance transport
+TIP1-3	3702.O82598	GO Process	GO:0071705	Nitrogen compound transport
+TIP1-3	3702.O82598	GO Process	GO:0071918	Urea transmembrane transport
+TIP1-3	3702.O82598	GO Function	GO:0005215	Transporter activity
+TIP1-3	3702.O82598	GO Function	GO:0005372	Water transmembrane transporter activity
+TIP1-3	3702.O82598	GO Function	GO:0015204	Urea transmembrane transporter activity
+TIP1-3	3702.O82598	GO Function	GO:0015250	Water channel activity
+TIP1-3	3702.O82598	GO Function	GO:0015267	Channel activity
+TIP1-3	3702.O82598	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+TIP1-3	3702.O82598	GO Function	GO:0022803	Passive transmembrane transporter activity
+TIP1-3	3702.O82598	GO Function	GO:0022857	Transmembrane transporter activity
+TIP1-3	3702.O82598	GO Function	GO:0042887	Amide transmembrane transporter activity
+TIP1-3	3702.O82598	GO Component	GO:0005622	Intracellular anatomical structure
+TIP1-3	3702.O82598	GO Component	GO:0005737	Cytoplasm
+TIP1-3	3702.O82598	GO Component	GO:0005773	Vacuole
+TIP1-3	3702.O82598	GO Component	GO:0005774	Vacuolar membrane
+TIP1-3	3702.O82598	GO Component	GO:0016020	Membrane
+TIP1-3	3702.O82598	GO Component	GO:0016021	Integral component of membrane
+TIP1-3	3702.O82598	GO Component	GO:0031090	Organelle membrane
+TIP1-3	3702.O82598	GO Component	GO:0031224	Intrinsic component of membrane
+TIP1-3	3702.O82598	GO Component	GO:0043226	Organelle
+TIP1-3	3702.O82598	GO Component	GO:0043227	Membrane-bounded organelle
+TIP1-3	3702.O82598	GO Component	GO:0043229	Intracellular organelle
+TIP1-3	3702.O82598	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+TIP1-3	3702.O82598	GO Component	GO:0098588	Bounding membrane of organelle
+TIP1-3	3702.O82598	GO Component	GO:0110165	Cellular anatomical entity
+TIP1-3	3702.O82598	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP1-3	3702.O82598	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP1-3	3702.O82598	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP1-3	3702.O82598	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP1-3	3702.O82598	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP1-3	3702.O82598	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+TIP1-3	3702.O82598	STRING clusters	CL:34454	Major intrinsic protein
+TIP1-3	3702.O82598	Reactome	MAP-382551	Transport of small molecules
+TIP1-3	3702.O82598	Reactome	MAP-432047	Passive transport by Aquaporins
+TIP1-3	3702.O82598	Reactome	MAP-445717	Aquaporin-mediated transport
+TIP1-3	3702.O82598	COMPARTMENTS	GOCC:0016020	Membrane
+TIP1-3	3702.O82598	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+TIP1-3	3702.O82598	UniProt Keywords	KW-0007	Acetylation
+TIP1-3	3702.O82598	UniProt Keywords	KW-0346	Stress response
+TIP1-3	3702.O82598	UniProt Keywords	KW-0472	Membrane
+TIP1-3	3702.O82598	UniProt Keywords	KW-0677	Repeat
+TIP1-3	3702.O82598	UniProt Keywords	KW-0812	Transmembrane
+TIP1-3	3702.O82598	UniProt Keywords	KW-0813	Transport
+TIP1-3	3702.O82598	UniProt Keywords	KW-0926	Vacuole
+TIP1-3	3702.O82598	UniProt Keywords	KW-1133	Transmembrane helix
+TIP1-3	3702.O82598	Pfam	PF00230	Major intrinsic protein
+TIP1-3	3702.O82598	InterPro	IPR000425	Major intrinsic protein
+TIP1-3	3702.O82598	InterPro	IPR022357	Major intrinsic protein, conserved site
+TIP1-3	3702.O82598	InterPro	IPR023271	Aquaporin-like
+TIP1-3	3702.O82598	InterPro	IPR034294	Aquaporin transporter
+TIP2-2	3702.Q41975	GO Process	GO:0006810	Transport
+TIP2-2	3702.Q41975	GO Process	GO:0006833	Water transport
+TIP2-2	3702.Q41975	GO Process	GO:0009987	Cellular process
+TIP2-2	3702.Q41975	GO Process	GO:0042044	Fluid transport
+TIP2-2	3702.Q41975	GO Process	GO:0051179	Localization
+TIP2-2	3702.Q41975	GO Process	GO:0051234	Establishment of localization
+TIP2-2	3702.Q41975	GO Process	GO:0055085	Transmembrane transport
+TIP2-2	3702.Q41975	GO Function	GO:0005215	Transporter activity
+TIP2-2	3702.Q41975	GO Function	GO:0005372	Water transmembrane transporter activity
+TIP2-2	3702.Q41975	GO Function	GO:0015250	Water channel activity
+TIP2-2	3702.Q41975	GO Function	GO:0015267	Channel activity
+TIP2-2	3702.Q41975	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+TIP2-2	3702.Q41975	GO Function	GO:0022803	Passive transmembrane transporter activity
+TIP2-2	3702.Q41975	GO Function	GO:0022857	Transmembrane transporter activity
+TIP2-2	3702.Q41975	GO Component	GO:0000325	Plant-type vacuole
+TIP2-2	3702.Q41975	GO Component	GO:0005622	Intracellular anatomical structure
+TIP2-2	3702.Q41975	GO Component	GO:0005737	Cytoplasm
+TIP2-2	3702.Q41975	GO Component	GO:0005773	Vacuole
+TIP2-2	3702.Q41975	GO Component	GO:0005774	Vacuolar membrane
+TIP2-2	3702.Q41975	GO Component	GO:0009705	Plant-type vacuole membrane
+TIP2-2	3702.Q41975	GO Component	GO:0016020	Membrane
+TIP2-2	3702.Q41975	GO Component	GO:0016021	Integral component of membrane
+TIP2-2	3702.Q41975	GO Component	GO:0031090	Organelle membrane
+TIP2-2	3702.Q41975	GO Component	GO:0031224	Intrinsic component of membrane
+TIP2-2	3702.Q41975	GO Component	GO:0042807	Central vacuole
+TIP2-2	3702.Q41975	GO Component	GO:0043226	Organelle
+TIP2-2	3702.Q41975	GO Component	GO:0043227	Membrane-bounded organelle
+TIP2-2	3702.Q41975	GO Component	GO:0043229	Intracellular organelle
+TIP2-2	3702.Q41975	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+TIP2-2	3702.Q41975	GO Component	GO:0098588	Bounding membrane of organelle
+TIP2-2	3702.Q41975	GO Component	GO:0110165	Cellular anatomical entity
+TIP2-2	3702.Q41975	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP2-2	3702.Q41975	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP2-2	3702.Q41975	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP2-2	3702.Q41975	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP2-2	3702.Q41975	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP2-2	3702.Q41975	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+TIP2-2	3702.Q41975	STRING clusters	CL:34454	Major intrinsic protein
+TIP2-2	3702.Q41975	STRING clusters	CL:34456	Major intrinsic protein
+TIP2-2	3702.Q41975	STRING clusters	CL:34457	Major intrinsic protein
+TIP2-2	3702.Q41975	STRING clusters	CL:34483	Water channel activity, and Arsenite transmembrane transporter activity
+TIP2-2	3702.Q41975	STRING clusters	CL:34484	Water channel activity
+TIP2-2	3702.Q41975	Reactome	MAP-382551	Transport of small molecules
+TIP2-2	3702.Q41975	Reactome	MAP-432047	Passive transport by Aquaporins
+TIP2-2	3702.Q41975	Reactome	MAP-445717	Aquaporin-mediated transport
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0000325	Plant-type vacuole
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0005622	Intracellular
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0005737	Cytoplasm
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0005773	Vacuole
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0005774	Vacuolar membrane
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0009705	Plant-type vacuole membrane
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0016020	Membrane
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0031090	Organelle membrane
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0042807	Central vacuole
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0043226	Organelle
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0098588	Bounding membrane of organelle
+TIP2-2	3702.Q41975	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+TIP2-2	3702.Q41975	UniProt Keywords	KW-0007	Acetylation
+TIP2-2	3702.Q41975	UniProt Keywords	KW-0472	Membrane
+TIP2-2	3702.Q41975	UniProt Keywords	KW-0488	Methylation
+TIP2-2	3702.Q41975	UniProt Keywords	KW-0597	Phosphoprotein
+TIP2-2	3702.Q41975	UniProt Keywords	KW-0677	Repeat
+TIP2-2	3702.Q41975	UniProt Keywords	KW-0812	Transmembrane
+TIP2-2	3702.Q41975	UniProt Keywords	KW-0813	Transport
+TIP2-2	3702.Q41975	UniProt Keywords	KW-0926	Vacuole
+TIP2-2	3702.Q41975	UniProt Keywords	KW-1133	Transmembrane helix
+TIP2-2	3702.Q41975	Pfam	PF00230	Major intrinsic protein
+TIP2-2	3702.Q41975	InterPro	IPR000425	Major intrinsic protein
+TIP2-2	3702.Q41975	InterPro	IPR022357	Major intrinsic protein, conserved site
+TIP2-2	3702.Q41975	InterPro	IPR023271	Aquaporin-like
+TIP2-2	3702.Q41975	InterPro	IPR034294	Aquaporin transporter
+TIP2-3	3702.Q9FGL2	GO Process	GO:0006810	Transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0006811	Ion transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0006812	Cation transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0006833	Water transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0009987	Cellular process
+TIP2-3	3702.Q9FGL2	GO Process	GO:0015837	Amine transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0015843	Methylammonium transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0019755	One-carbon compound transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0034220	Ion transmembrane transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0042044	Fluid transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0051179	Localization
+TIP2-3	3702.Q9FGL2	GO Process	GO:0051234	Establishment of localization
+TIP2-3	3702.Q9FGL2	GO Process	GO:0055085	Transmembrane transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0071702	Organic substance transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0071705	Nitrogen compound transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0072489	Methylammonium transmembrane transport
+TIP2-3	3702.Q9FGL2	GO Process	GO:0098655	Cation transmembrane transport
+TIP2-3	3702.Q9FGL2	GO Function	GO:0005215	Transporter activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0005275	Amine transmembrane transporter activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0005372	Water transmembrane transporter activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0008324	Cation transmembrane transporter activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0015075	Ion transmembrane transporter activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0015200	Methylammonium transmembrane transporter activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0015250	Water channel activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0015267	Channel activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0022803	Passive transmembrane transporter activity
+TIP2-3	3702.Q9FGL2	GO Function	GO:0022857	Transmembrane transporter activity
+TIP2-3	3702.Q9FGL2	GO Component	GO:0000325	Plant-type vacuole
+TIP2-3	3702.Q9FGL2	GO Component	GO:0005622	Intracellular anatomical structure
+TIP2-3	3702.Q9FGL2	GO Component	GO:0005737	Cytoplasm
+TIP2-3	3702.Q9FGL2	GO Component	GO:0005773	Vacuole
+TIP2-3	3702.Q9FGL2	GO Component	GO:0005774	Vacuolar membrane
+TIP2-3	3702.Q9FGL2	GO Component	GO:0009705	Plant-type vacuole membrane
+TIP2-3	3702.Q9FGL2	GO Component	GO:0016020	Membrane
+TIP2-3	3702.Q9FGL2	GO Component	GO:0016021	Integral component of membrane
+TIP2-3	3702.Q9FGL2	GO Component	GO:0031090	Organelle membrane
+TIP2-3	3702.Q9FGL2	GO Component	GO:0031224	Intrinsic component of membrane
+TIP2-3	3702.Q9FGL2	GO Component	GO:0042807	Central vacuole
+TIP2-3	3702.Q9FGL2	GO Component	GO:0043226	Organelle
+TIP2-3	3702.Q9FGL2	GO Component	GO:0043227	Membrane-bounded organelle
+TIP2-3	3702.Q9FGL2	GO Component	GO:0043229	Intracellular organelle
+TIP2-3	3702.Q9FGL2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+TIP2-3	3702.Q9FGL2	GO Component	GO:0098588	Bounding membrane of organelle
+TIP2-3	3702.Q9FGL2	GO Component	GO:0110165	Cellular anatomical entity
+TIP2-3	3702.Q9FGL2	STRING clusters	CL:29783	Mixed, incl. Proteoglycan, and Peptidyl-proline modification
+TIP2-3	3702.Q9FGL2	STRING clusters	CL:29784	Mixed, incl. Proteoglycan, and Galactosyltransferase
+TIP2-3	3702.Q9FGL2	STRING clusters	CL:29908	Proteoglycan, and N-1-naphthylphthalamic acid binding
+TIP2-3	3702.Q9FGL2	STRING clusters	CL:30002	Mostly uncharacterized, incl. Methylammonium transmembrane transport, and Arabinogalactan peptide
+TIP2-3	3702.Q9FGL2	STRING clusters	CL:30004	Mixed, incl. Methylammonium transmembrane transport, and Arabinogalactan peptide
+TIP2-3	3702.Q9FGL2	Reactome	MAP-382551	Transport of small molecules
+TIP2-3	3702.Q9FGL2	Reactome	MAP-432047	Passive transport by Aquaporins
+TIP2-3	3702.Q9FGL2	Reactome	MAP-445717	Aquaporin-mediated transport
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0000325	Plant-type vacuole
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0005622	Intracellular
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0005737	Cytoplasm
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0005773	Vacuole
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0005774	Vacuolar membrane
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0009705	Plant-type vacuole membrane
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0016020	Membrane
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0031090	Organelle membrane
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0042807	Central vacuole
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0043226	Organelle
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0098588	Bounding membrane of organelle
+TIP2-3	3702.Q9FGL2	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+TIP2-3	3702.Q9FGL2	UniProt Keywords	KW-0007	Acetylation
+TIP2-3	3702.Q9FGL2	UniProt Keywords	KW-0472	Membrane
+TIP2-3	3702.Q9FGL2	UniProt Keywords	KW-0488	Methylation
+TIP2-3	3702.Q9FGL2	UniProt Keywords	KW-0677	Repeat
+TIP2-3	3702.Q9FGL2	UniProt Keywords	KW-0812	Transmembrane
+TIP2-3	3702.Q9FGL2	UniProt Keywords	KW-0813	Transport
+TIP2-3	3702.Q9FGL2	UniProt Keywords	KW-0926	Vacuole
+TIP2-3	3702.Q9FGL2	UniProt Keywords	KW-1133	Transmembrane helix
+TIP2-3	3702.Q9FGL2	Pfam	PF00230	Major intrinsic protein
+TIP2-3	3702.Q9FGL2	InterPro	IPR000425	Major intrinsic protein
+TIP2-3	3702.Q9FGL2	InterPro	IPR022357	Major intrinsic protein, conserved site
+TIP2-3	3702.Q9FGL2	InterPro	IPR023271	Aquaporin-like
+TIP2-3	3702.Q9FGL2	InterPro	IPR034294	Aquaporin transporter
+TIP5-1	3702.Q9STX9	GO Process	GO:0000003	Reproduction
+TIP5-1	3702.Q9STX9	GO Process	GO:0003006	Developmental process involved in reproduction
+TIP5-1	3702.Q9STX9	GO Process	GO:0006810	Transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0006833	Water transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0007275	Multicellular organism development
+TIP5-1	3702.Q9STX9	GO Process	GO:0007276	Gamete generation
+TIP5-1	3702.Q9STX9	GO Process	GO:0009555	Pollen development
+TIP5-1	3702.Q9STX9	GO Process	GO:0009987	Cellular process
+TIP5-1	3702.Q9STX9	GO Process	GO:0015840	Urea transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0019755	One-carbon compound transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0019953	Sexual reproduction
+TIP5-1	3702.Q9STX9	GO Process	GO:0022412	Cellular process involved in reproduction in multicellular organism
+TIP5-1	3702.Q9STX9	GO Process	GO:0022414	Reproductive process
+TIP5-1	3702.Q9STX9	GO Process	GO:0030154	Cell differentiation
+TIP5-1	3702.Q9STX9	GO Process	GO:0032501	Multicellular organismal process
+TIP5-1	3702.Q9STX9	GO Process	GO:0032502	Developmental process
+TIP5-1	3702.Q9STX9	GO Process	GO:0032504	Multicellular organism reproduction
+TIP5-1	3702.Q9STX9	GO Process	GO:0042044	Fluid transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0042886	Amide transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0048229	Gametophyte development
+TIP5-1	3702.Q9STX9	GO Process	GO:0048232	Male gamete generation
+TIP5-1	3702.Q9STX9	GO Process	GO:0048235	Pollen sperm cell differentiation
+TIP5-1	3702.Q9STX9	GO Process	GO:0048609	Multicellular organismal reproductive process
+TIP5-1	3702.Q9STX9	GO Process	GO:0048856	Anatomical structure development
+TIP5-1	3702.Q9STX9	GO Process	GO:0048869	Cellular developmental process
+TIP5-1	3702.Q9STX9	GO Process	GO:0051179	Localization
+TIP5-1	3702.Q9STX9	GO Process	GO:0051234	Establishment of localization
+TIP5-1	3702.Q9STX9	GO Process	GO:0055046	Microgametogenesis
+TIP5-1	3702.Q9STX9	GO Process	GO:0055085	Transmembrane transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0071702	Organic substance transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0071705	Nitrogen compound transport
+TIP5-1	3702.Q9STX9	GO Process	GO:0071918	Urea transmembrane transport
+TIP5-1	3702.Q9STX9	GO Function	GO:0005215	Transporter activity
+TIP5-1	3702.Q9STX9	GO Function	GO:0005372	Water transmembrane transporter activity
+TIP5-1	3702.Q9STX9	GO Function	GO:0015204	Urea transmembrane transporter activity
+TIP5-1	3702.Q9STX9	GO Function	GO:0015250	Water channel activity
+TIP5-1	3702.Q9STX9	GO Function	GO:0015267	Channel activity
+TIP5-1	3702.Q9STX9	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+TIP5-1	3702.Q9STX9	GO Function	GO:0022803	Passive transmembrane transporter activity
+TIP5-1	3702.Q9STX9	GO Function	GO:0022857	Transmembrane transporter activity
+TIP5-1	3702.Q9STX9	GO Function	GO:0042887	Amide transmembrane transporter activity
+TIP5-1	3702.Q9STX9	GO Component	GO:0005622	Intracellular anatomical structure
+TIP5-1	3702.Q9STX9	GO Component	GO:0005737	Cytoplasm
+TIP5-1	3702.Q9STX9	GO Component	GO:0005739	Mitochondrion
+TIP5-1	3702.Q9STX9	GO Component	GO:0016020	Membrane
+TIP5-1	3702.Q9STX9	GO Component	GO:0016021	Integral component of membrane
+TIP5-1	3702.Q9STX9	GO Component	GO:0031224	Intrinsic component of membrane
+TIP5-1	3702.Q9STX9	GO Component	GO:0042995	Cell projection
+TIP5-1	3702.Q9STX9	GO Component	GO:0043226	Organelle
+TIP5-1	3702.Q9STX9	GO Component	GO:0043227	Membrane-bounded organelle
+TIP5-1	3702.Q9STX9	GO Component	GO:0043229	Intracellular organelle
+TIP5-1	3702.Q9STX9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+TIP5-1	3702.Q9STX9	GO Component	GO:0090406	Pollen tube
+TIP5-1	3702.Q9STX9	GO Component	GO:0110165	Cellular anatomical entity
+TIP5-1	3702.Q9STX9	GO Component	GO:0120025	Plasma membrane bounded cell projection
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34446	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34448	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34449	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34450	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34451	Mixed, incl. Major intrinsic protein, and Aldo/keto reductase family
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34452	Major intrinsic protein, and OPT oligopeptide transporter protein
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34454	Major intrinsic protein
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34456	Major intrinsic protein
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34457	Major intrinsic protein
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34458	Major intrinsic protein
+TIP5-1	3702.Q9STX9	STRING clusters	CL:34461	Mixed, incl. YMGG-like Gly-zipper, and Aquaporin SIP1-1/2-like
+TIP5-1	3702.Q9STX9	Reactome	MAP-382551	Transport of small molecules
+TIP5-1	3702.Q9STX9	Reactome	MAP-432047	Passive transport by Aquaporins
+TIP5-1	3702.Q9STX9	Reactome	MAP-445717	Aquaporin-mediated transport
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0005622	Intracellular
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0005737	Cytoplasm
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0005739	Mitochondrion
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0042995	Cell projection
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0043226	Organelle
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0090406	Pollen tube
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+TIP5-1	3702.Q9STX9	COMPARTMENTS	GOCC:0120025	Plasma membrane bounded cell projection
+TIP5-1	3702.Q9STX9	UniProt Keywords	KW-0007	Acetylation
+TIP5-1	3702.Q9STX9	UniProt Keywords	KW-0472	Membrane
+TIP5-1	3702.Q9STX9	UniProt Keywords	KW-0597	Phosphoprotein
+TIP5-1	3702.Q9STX9	UniProt Keywords	KW-0677	Repeat
+TIP5-1	3702.Q9STX9	UniProt Keywords	KW-0812	Transmembrane
+TIP5-1	3702.Q9STX9	UniProt Keywords	KW-0813	Transport
+TIP5-1	3702.Q9STX9	UniProt Keywords	KW-1133	Transmembrane helix
+TIP5-1	3702.Q9STX9	Pfam	PF00230	Major intrinsic protein
+TIP5-1	3702.Q9STX9	InterPro	IPR000425	Major intrinsic protein
+TIP5-1	3702.Q9STX9	InterPro	IPR022357	Major intrinsic protein, conserved site
+TIP5-1	3702.Q9STX9	InterPro	IPR023271	Aquaporin-like
+TIP5-1	3702.Q9STX9	InterPro	IPR034294	Aquaporin transporter

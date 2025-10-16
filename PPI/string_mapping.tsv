@@ -1,0 +1,8 @@
+#queryIndex	queryItem	stringId	identity	bitscore	preferredName	annotation
+1	AcLsi1-1	3702.Q8LFP7	45.7	198.7	NIP1-2	Aquaporin NIP1-2; Water channel probably required to promote glycerol permeability and water transport across cell membranes. Belongs to the MIP/aquaporin (TC 1.A.8) family. NIP (TC 1.A.8.12) subfamily.
+2	AcLsi1-3	3702.Q9FIZ9	62.8	332.0	NIP4-1	Putative aquaporin NIP4-1; Potential aquaporin, which may facilitate the transport of water and small neutral solutes across cell membranes.
+3	AcLsi2	3702.O81915	69.6	648.7	T7I23.21	Divalent ion symporter.
+4	AcLsi1-4	3702.Q8LFP7	72.4	362.8	NIP1-2	Aquaporin NIP1-2; Water channel probably required to promote glycerol permeability and water transport across cell membranes. Belongs to the MIP/aquaporin (TC 1.A.8) family. NIP (TC 1.A.8.12) subfamily.
+5	AcLsi1-5	3702.Q9SV84	74.6	362.1	NIP5-1	Probable aquaporin NIP5-1; Boric acid transporter. Low water transport activity. Plays an important role as plasma membrane boric acid channel for the boron uptake required for plant growth and development under boron limitation; Belongs to the MIP/aquaporin (TC 1.A.8) family. NIP (TC 1.A.8.12) subfamily.
+6	AcLsi1-6	3702.Q9SV84	76.2	339.7	NIP5-1	Probable aquaporin NIP5-1; Boric acid transporter. Low water transport activity. Plays an important role as plasma membrane boric acid channel for the boron uptake required for plant growth and development under boron limitation; Belongs to the MIP/aquaporin (TC 1.A.8) family. NIP (TC 1.A.8.12) subfamily.
+7	Aclsi1-2	3702.Q9SAI4	46.5	205.7	NIP6-1	Aquaporin NIP6-1; Transports glycerol, urea and formamide, in Xenopus laevis oocytes. Very low water transport activity. Belongs to the MIP/aquaporin (TC 1.A.8) family. NIP (TC 1.A.8.12) subfamily.
