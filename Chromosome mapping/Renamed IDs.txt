@@ -1,0 +1,7 @@
+g106325.t1 	AcLsi1-1
+g171774.t1 	AcLsi1-3
+g191150.t1 	AcLsi2 
+g342104.t1 	AcLsi1-4
+g368937.t1 	AcLsi1-5
+g428538.t1 	AcLsi1-6
+g525889.t1 	AcLsi1-2
