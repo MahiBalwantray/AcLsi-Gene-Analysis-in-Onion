@@ -27,7 +27,7 @@ Through sequence mining, domain annotation, and phylogenetic studies, the projec
 
 | Tool / Database | Purpose |
 |------------------|----------|
-| **BLASTp (NCBI)** | Identify AcLsi homologs in the *Allium cepa* genome |
+| **BLASTp (NCBI)** | Identify *AcLsi* homologs in the *Allium cepa* genome |
 | **SMART & CDD** | Confirm conserved domains related to silicon transport |
 | **MEME Suite (v5.5.8)** | Identify conserved motifs across AcLsi proteins |
 | **ProtParam (ExPASy)** | Predict molecular weight, isoelectric point, and GRAVY index |
