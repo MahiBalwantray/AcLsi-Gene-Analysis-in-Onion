@@ -1,0 +1,15 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-E2D80497E650C96-25A80DC1070C60C4
+#datatype	hitsConcise Results
+#status	0
+#Start time	2025-03-04T08:12:23	Run time	0:00:00:05
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >g106325.t1	superfamily	444743	37	242	2.74056e-49	161.716	cl00200	MIP superfamily	 - 	 - 
+Q#2 - >g171774.t1	superfamily	444743	34	247	2.65795e-63	196.384	cl00200	MIP superfamily	 - 	 - 
+Q#3 - >g191150.t1	specific	460985	113	510	1.09269e-59	199.846	pfam03600	CitMHS	 - 	cl47828
+Q#4 - >g342104.t1	superfamily	444743	149	360	1.3543e-68	214.103	cl00200	MIP superfamily	 - 	 - 
+Q#5 - >g368937.t1	superfamily	444743	30	239	2.63674e-51	165.568	cl00200	MIP superfamily	 - 	 - 
+Q#6 - >g428538.t1	superfamily	444743	30	239	2.90231e-53	170.576	cl00200	MIP superfamily	 - 	 - 
+Q#7 - >g525889.t1	superfamily	444743	64	275	1.18196e-64	201.777	cl00200	MIP superfamily	 - 	 - 
